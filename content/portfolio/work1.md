@@ -1,13 +1,13 @@
 ---
 date: "2016-11-05T18:25:22+05:30"
 draft: false
-image: img/portfolio/Box_volume_breakdown.PNG
+image: img/portfolio/RGB.jpg
 showonlyimage: true
-title: Name of the work 1
+title: RGB
 weight: 0
 ---
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+This is a graphic I made to help me learn RGB color codes. The color spectrum can be divided into six equal sections. Similar graphics exist but they typically used lines rather than solid shapes to represent the levels of Red, Blue and Green along the spectrum. Additionally, these graphics would overlay the Red Blue and Green lines on top of each other, which made it difficult to see the level of any one color. 
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
