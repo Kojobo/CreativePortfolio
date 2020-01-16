@@ -2,7 +2,7 @@
 date: "2016-11-05T18:25:22+05:30"
 draft: false
 image: img/portfolio/RGB.jpg
-showonlyimage: false
+showonlyimage: true
 title: RGB
 weight: 0
 ---
