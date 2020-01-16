@@ -1,9 +1,9 @@
 ---
 date: "2016-11-05T19:41:01+05:30"
 draft: false
-image: img/portfolio/business-card-26.jpg
+image: img/portfolio/Box_volume_breakdown.PNG
 showonlyimage: false
-title: Name of the work 2
+title: Six Sigma Project with Abercrombie & Fitch 
 weight: 1
 ---
 
