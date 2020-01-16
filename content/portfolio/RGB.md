@@ -7,7 +7,7 @@ title: RGB
 weight: 0
 ---
 
-This is a graphic I made to help me learn RGB color codes. The color spectrum can be divided into six equal sections. Similar graphics exist but they typically used lines rather than solid shapes to represent the levels of Red, Blue and Green along the spectrum. Additionally, these graphics would overlay the Red Blue and Green lines on top of each other, which made it difficult to see the level of any one color. 
+This is a graphic I made to help me learn RGB color codes.  
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
