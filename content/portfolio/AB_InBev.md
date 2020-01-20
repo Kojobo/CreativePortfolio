@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T19:44:32+05:30"
 draft: false
-image: img/portfolio/AbinBev.jpg
+image: img/portfolio/ABInBev_profile.png
 showonlyimage: false
 title: AB InBev 
 weight: 2
