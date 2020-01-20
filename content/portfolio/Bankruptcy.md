@@ -7,7 +7,7 @@ title: Liquidation Nation
 weight: 1
 ---
 
-An updated report on Chapter 7 Bankruptcy in the US
+An updated report on Chapter 7 Bankruptcy in the US from 2001-2018
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
