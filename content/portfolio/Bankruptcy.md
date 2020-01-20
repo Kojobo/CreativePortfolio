@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T19:41:01+05:30"
 draft: false
-image: img/portfolio/bankruptcy_profile.PNG
+image: img/portfolio/bankruptcy_profile_2.PNG
 showonlyimage: false
 title: Liquidation Nation
 weight: 1
