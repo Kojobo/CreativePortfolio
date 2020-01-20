@@ -24,22 +24,13 @@ The members of my team loved the logos and wanted to incorporate them throughout
 
 My team was selected from a dozen other teams to represent Ohio State Fisher College of Business in the final round of the competition in New York City where we presented our recommendation to AB InBev executives.In the final round we competed against teams from over 40 business schools from around the country. 
 
-Unfortunately our team did not win the final round, but I learned a great deal from this incredible experience. 
+ 
 
 ![ABInBev Finals NYC][3]
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+> Unfortunately our team did not win the final round, but I learned a great deal from this incredible experience.
 
-## Header Level 2
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
 
 [1]: /img/portfolio/AbInbev_logos.JPG
 [2]: /img/portfolio/AbInbev_chart.JPG
