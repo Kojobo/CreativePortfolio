@@ -7,7 +7,7 @@ title: AB InBev
 weight: 2
 ---
 
-In 2018 I participated in the Anheuser Busch InBev case competition. My team made it to the final round where we presented to AB InBev executives in New York City. In addition to taking on any legal issues in the case (contracts, tax credit programs, etc.) I also created the graphics and many of the charts. 
+In 2017 I participated in the Anheuser Busch InBev case competition. My team made it to the final round where we presented to AB InBev executives in New York City.. 
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
