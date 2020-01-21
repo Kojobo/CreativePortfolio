@@ -9,7 +9,7 @@ weight: 5
 
 I designed this MC Escher themed piece using Cricut Design Studio and cut the pieces from cardstock using a Cricut Air 2. 
 
-<img src="/portfolio/MC_Escher_files/Wall_art_prism.jpg" alt="MC Escher inspired wall art" width="400px" height="400px"/>
+<img src="/portfolio/MC_Escher_files/Wall_art_prism.jpg" alt="MC Escher inspired wall art" width="600px" height="600px"/>
 <!--more-->
 
  
