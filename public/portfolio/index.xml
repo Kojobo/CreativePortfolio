@@ -85,6 +85,15 @@
     </item>
     
     <item>
+      <title>RGB</title>
+      <link>/portfolio/rgb/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/rgb/</guid>
+      <description>&lt;p&gt;This is a graphic I made to help me learn RGB color codes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Health Care Analytics</title>
       <link>/portfolio/hc_analytics/</link>
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
@@ -109,15 +118,6 @@
       
       <guid>/portfolio/work11/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>RGB</title>
-      <link>/portfolio/rgb/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>/portfolio/rgb/</guid>
-      <description>&lt;p&gt;This is a graphic I made to help me learn RGB color codes.&lt;/p&gt;</description>
     </item>
     
   </channel>
