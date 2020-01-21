@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/Wall_art_prism.jpg
 showonlyimage: true
 title: Wall Art 
-weight: 5
+weight: 6
 ---
 
 I designed this MC Escher themed piece using Cricut Design Studio and cut the pieces from cardstock using a Cricut Air 2. 
