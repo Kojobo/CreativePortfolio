@@ -20,7 +20,7 @@ While conducting research for an assignment in this class, I came across a wealt
 
 The DOJ has not published a similar report since 2001, but the Department has bankruptcy data from 2000 to the present readily available on their website.
 
-Here are the goals I had for this project was an attempt to use R programming to recreate the same report published by the DOJ in 2001, only this version would cover bankruptcy from 2001 - 2018 rather than 1994-2000. 
+Here are the goals I had for this project:
 
 1. Use R programming to create a new report that contained the same charts as the original report but used data from 2001-2018 rather than 1994-2000.
 2. Learn the basics of RMarkdown so that I could publish the report. 
@@ -33,15 +33,15 @@ While I was able to recreate many of the charts and statistics found in the orig
 
 ## Getting Started 
 
-### Retrieving the Data 
+### Retrieving and Cleaning the Data 
 
 The first task in making this report was assembling all of the bankruptcy data into a single data frame. This turned out to be a much larger challenge than I initially anticipated. The DOJ has published data on Chapter 7 bankruptcy annually since 2001. A screenshot of the page is shown below, and the actual site  can be accessed by clicking this [LINK](https://www.justice.gov/ust/bankruptcy-data-statistics/chapter-7-trustee-final-reports). 
 
 <img src="/portfolio/Bankruptcy_files/bankruptcy_data_site.PNG" alt="DOJ CH7 Data page" width="600px" height="600px"/>
 
-Over the nearly two decades that this data has been published, not only has the layout of these data tables changed, the file formats have changed as well. An RMarkdown file laying out all the steps I took to retreive and reformat the data can be found on my github account. 
+Over the nearly two decades that this data has been published, not only has the layout and naming conventions of these data tables changed, the file formats have changed as well. An RMarkdown file laying out all the steps I took to retreive and reformat the data can be found on my github account. 
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+### Recreating the Charts and Graphics 
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+After collecting and cleaning the data, I began working my way through the report. Page by page, I recalculated all of the statistics and recreated the charts.The original report is nearly 50 pages and has over 20 charts, so to avoid making this post unbearably long I decided to include only a portion of the pages in this post. Check out my github to see the full list of RMarkdown files containing the updated pages of the report as well as the code I used to generate them. 
+
