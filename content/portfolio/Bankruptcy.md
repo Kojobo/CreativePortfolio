@@ -10,9 +10,15 @@ weight: 1
 An updated report on Chapter 7 Bankruptcy in the US from 2001-2018
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+In law school I completed a course called "Debtor Creditor Law" which focused a great deal on the  bankruptcy system in the United States. 
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+While conducting research for an assignment in this class, I came across a wealth of bankruptcy data on the Department of Justice's website. In addition to the data, there was also a report published in 2001 by the DOJ that provided a summary of bankruptcy in the US from 1994 - 2000. 
+
+Click here to see the original report. 
+
+The DOJ has not published a similar report since 2001, but the Department has bankruptcy data from 2000 to the present readily available on their website.
+
+This project was an attempt to use R programming to recreate the same report published by the DOJ in 2001, only this version would cover bankruptcy from 2001 - 2018 rather than 1994-2000. 
 
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.

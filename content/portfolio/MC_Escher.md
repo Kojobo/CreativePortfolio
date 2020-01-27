@@ -3,7 +3,7 @@ date: "2016-11-05T19:53:42+05:30"
 draft: false
 image: img/portfolio/Wall_art_prism.jpg
 showonlyimage: true
-title: Wall Art 
+title: MC Escher Wall Art 
 weight: 6
 ---
 
