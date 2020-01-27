@@ -3,11 +3,11 @@ date: "2016-11-05T19:44:32+05:30"
 draft: false
 image: img/portfolio/ABInBev_profile.png
 showonlyimage: false
-title: AB InBev Case Competition 
+title: AB InBev Sustainability Challenge
 weight: 2
 ---
 
-In 2017 I participated in the Anheuser Busch InBev case competition.  
+In 2017 my team made it to the final round of the Anheuser Busch InBev case competition.  
 <!--more-->
 
 The challenge for our team was to evaluate six different renewable energy projects and determine which project was the best choice to help AB InBev achieve its goal of using 100% rewewable energy by 2025. 
