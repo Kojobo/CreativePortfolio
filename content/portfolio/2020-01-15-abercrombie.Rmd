@@ -9,6 +9,11 @@ image: 'img/portfolio/AF_profile.PNG'
 showonlyimage: yes
 weight: 2
 ---
+
+A six sigma project I completed to earn my Green belt. 
+
+<!--more-->
+
 In Spring 2019 I collaborated with a team of fellow MBA students and Abercrombie & Fitch associates to complete a six sigma project and earn my green belt. The main focus of the project was to implement the DMAIC framework to reduce the occurrence of machine errors in the main distribution center's outbound packaging process. Improving machine performance reduced the need for human intervention and enabled employees to focus on value added activities.
 
 ![Close to Edit][1]
