@@ -10,6 +10,8 @@ weight: 1
 An updated report on Chapter 7 Bankruptcy in the US from 2001-2018
 <!--more-->
 
+## Background on the Project 
+
 In law school I completed a course called "Debtor Creditor Law" which focused a great deal on the  bankruptcy system in the United States. 
 
 While conducting research for an assignment in this class, I came across a wealth of bankruptcy data on the Department of Justice's website. In addition to the data, there was also a report published in 2001 by the DOJ that provided a summary of bankruptcy in the US from 1994 - 2000. 
@@ -18,18 +20,26 @@ While conducting research for an assignment in this class, I came across a wealt
 
 The DOJ has not published a similar report since 2001, but the Department has bankruptcy data from 2000 to the present readily available on their website.
 
-This project was an attempt to use R programming to recreate the same report published by the DOJ in 2001, only this version would cover bankruptcy from 2001 - 2018 rather than 1994-2000. 
+Here are the goals I had for this project was an attempt to use R programming to recreate the same report published by the DOJ in 2001, only this version would cover bankruptcy from 2001 - 2018 rather than 1994-2000. 
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+1. Use R programming to create a new report that contained the same charts as the original report but used data from 2001-2018 rather than 1994-2000.
+2. Learn the basics of RMarkdown so that I could publish the report. 
+3. Update some of the charts to display the data in a way that made it easier for the reader to understand. 
+4. Create interactive and dynamic versions of charts to make the report more engaging for the viewer. 
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+While I was able to recreate many of the charts and statistics found in the original report, there was some data that was necessary to make certain charts that I was unable to find and therefore, some charts from the original report are missing from my recreated version. 
 
-## Header Level 2
+> DISCLAIMER: The report I've created is in no way associated with the Department of Justice. 
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+## Getting Started 
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+### Retrieving the Data 
+
+The first task in making this report was assembling all of the bankruptcy data into a single data frame. This turned out to be a much larger challenge than I initially anticipated. The DOJ has published data on Chapter 7 bankruptcy annually since 2001. A screenshot of the page is shown below, and the actual site  can be accessed by clicking this [LINK](https://www.justice.gov/ust/bankruptcy-data-statistics/chapter-7-trustee-final-reports). 
+
+<img src="/portfolio/Bankruptcy_files/bankruptcy_data_site.PNG" alt="DOJ CH7 Data page" width="400px" height="400px"/>
+
+Over the nearly two decades that this data has been published, not only has the layout of these data tables changed, the file formats have changed as well. An RMarkdown file laying out all the steps I took to retreive and reformat the data can be found on my github account. 
 
 * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 * Aliquam tincidunt mauris eu risus.
