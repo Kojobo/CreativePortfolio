@@ -14,7 +14,7 @@ In law school I completed a course called "Debtor Creditor Law" which focused a 
 
 While conducting research for an assignment in this class, I came across a wealth of bankruptcy data on the Department of Justice's website. In addition to the data, there was also a report published in 2001 by the DOJ that provided a summary of bankruptcy in the US from 1994 - 2000. 
 
-Click here to see the original report. 
+[Click here to see the original report.](https://www.justice.gov/ust/eo/private_trustee/library/chapter07/docs/assetcases/Publicat.pdf)
 
 The DOJ has not published a similar report since 2001, but the Department has bankruptcy data from 2000 to the present readily available on their website.
 
