@@ -37,7 +37,7 @@ While I was able to recreate many of the charts and statistics found in the orig
 
 The first task in making this report was assembling all of the bankruptcy data into a single data frame. This turned out to be a much larger challenge than I initially anticipated. The DOJ has published data on Chapter 7 bankruptcy annually since 2001. A screenshot of the page is shown below, and the actual site  can be accessed by clicking this [LINK](https://www.justice.gov/ust/bankruptcy-data-statistics/chapter-7-trustee-final-reports). 
 
-<img src="/portfolio/Bankruptcy_files/bankruptcy_data_site.PNG" alt="DOJ CH7 Data page" width="400px" height="400px"/>
+<img src="/portfolio/Bankruptcy_files/bankruptcy_data_site.PNG" alt="DOJ CH7 Data page" width="600px" height="600px"/>
 
 Over the nearly two decades that this data has been published, not only has the layout of these data tables changed, the file formats have changed as well. An RMarkdown file laying out all the steps I took to retreive and reformat the data can be found on my github account. 
 
