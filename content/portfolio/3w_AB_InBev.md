@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/ABInBev_profile.png
 showonlyimage: false
 title: AB InBev Sustainability Challenge
-weight: 2
+weight: 3
 ---
 
 In 2017 my team made it to the final round of the Anheuser Busch InBev case competition.  

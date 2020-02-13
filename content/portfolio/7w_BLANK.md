@@ -1,13 +1,13 @@
 ---
-date: "2016-11-05T18:25:22+05:30"
+date: "2016-11-05T19:56:17+05:30"
 draft: false
-image: img/portfolio/RGB.jpg
-showonlyimage: true
-title: RGB
-weight: 8
+image: ""
+showonlyimage: false
+title: Name of the work 6
+weight: 7
 ---
 
-This is a graphic I made to help me learn RGB color codes.  
+Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
