@@ -6,7 +6,7 @@ slug: wallart-1
 categories:
   - Hobbies
 tags: []
-image: img/portfolio/WallArt1.JPG
+image: img/portfolio/art/WallArt1.JPG
 showonlyimage: yes
 weight: 4
 ---
