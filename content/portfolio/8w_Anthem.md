@@ -1,13 +1,13 @@
 ---
 date: "2016-11-05T19:59:22+05:30"
 draft: false
-image: img/portfolio/Anthem_profile.png
+image: img/portfolio/anth/Anthem_profile.png
 showonlyimage: false
 title: Anthem Inc.
 weight: 8
 ---
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Some projects from when I interned as an Internal Consultant in Denver with Anthem 
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
