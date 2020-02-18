@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T19:44:32+05:30"
 draft: false
-image: img/portfolio/ABI/AbInbev_chart.png
+image: img/portfolio/ABI/AbInbev_chart.jpg
 showonlyimage: false
 title: AB InBev Sustainability Challenge
 weight: 3
