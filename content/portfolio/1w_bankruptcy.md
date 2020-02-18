@@ -18,6 +18,8 @@ While conducting research for an assignment in this class, I came across a wealt
 
 <img src="/portfolio/1w_bankruptcy_files/og_report_grid.PNG" alt="Charts from the original 2001 report" width="600px" height="600px"/>
 
+[Click here to see the updated report](https://rpubs.com/Kojobo/bankruptcy)
+
 [Click here to see the original report.](https://www.justice.gov/ust/eo/private_trustee/library/chapter07/docs/assetcases/Publicat.pdf)
 
 The DOJ has not published a similar report since 2001, but the Department has bankruptcy data from 2000 to the present readily available on their website.
