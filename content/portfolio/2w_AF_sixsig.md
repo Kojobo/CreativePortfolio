@@ -18,7 +18,10 @@ In Spring 2019 I collaborated with a team of fellow MBA students and Abercrombie
 
 The first task for our team was to observe the entire process for receiving, sorting, packaging, and shipping SKUs out to A&F Branches across the country. After observing each of these steps, we created a work flow diagram to document each phase in the process. 
 
+[Click this link to see a description of each phase of the process](https://rpubs.com/Kojobo/AFprocessmap)
+
 ![AF_workflow][3]
+
 
 [1]: /img/portfolio/AF/AF_CTE.jpg
 [2]: /img/portfolio/AF/AF_underfill.jpg
