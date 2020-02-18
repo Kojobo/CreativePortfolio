@@ -32,6 +32,6 @@ My team was selected from a dozen other teams to represent Ohio State Fisher Col
 
 
 
-[1]: /img/portfolio/AbInbev_logos.JPG
-[2]: /img/portfolio/AbInbev_chart.JPG
-[3]: /img/portfolio/AbInbev_nyc.JPG
+[1]: /img/portfolio/ABI/AbInbev_logos.JPG
+[2]: /img/portfolio/ABI/AbInbev_chart.JPG
+[3]: /img/portfolio/ABI/AbInbev_nyc.JPG

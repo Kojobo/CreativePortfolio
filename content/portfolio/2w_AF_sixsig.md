@@ -20,6 +20,6 @@ The first task for our team was to observe the entire process for receiving, sor
 
 ![AF_workflow][3]
 
-[1]: /img/portfolio/AF_CTE.jpg
-[2]: /img/portfolio/AF_underfill.jpg
-[3]: /img/portfolio/AF_WorkFlow.PNG
+[1]: /img/portfolio/AF/AF_CTE.jpg
+[2]: /img/portfolio/AF/AF_underfill.jpg
+[3]: /img/portfolio/AF/AF_WorkFlow.PNG
