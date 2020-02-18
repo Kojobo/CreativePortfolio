@@ -1,9 +1,9 @@
 ---
 date: "2016-11-05T20:22:08+05:30"
 draft: false
-image: img/portfolio/AF/AF_profile.PNG
+image: img/portfolio/AF/AF_profile_new.PNG
 showonlyimage: true
-title: Abercrombie & Fitch 
+title: Six Sigma with Abercrombie & Fitch 
 weight: 2
 ---
 
