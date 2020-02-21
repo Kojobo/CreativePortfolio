@@ -11,10 +11,10 @@ In this MBA course I was able to apply my newly acquired programming skills to a
 <!--more-->
 
 
-![Box plot](img/portfolio/HCA/gender_diff_box.png)
+![Box plot](/img/portfolio/HCA/gender_diff_box.PNG)
 
-![time series](img/portfolio/HCA/gender_diff_time.png)
+![time series](/img/portfolio/HCA/gender_diff_time.PNG)
 
-![Histogram](img/portfolio/HCA/who_hist.png) 
+![Histogram](/img/portfolio/HCA/who_hist.PNG) 
 
-![transformation](img/portfolio/HCA/trans_bar.png)
+![transformation](/img/portfolio/HCA/trans_bar.PNG)
