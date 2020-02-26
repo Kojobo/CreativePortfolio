@@ -10,22 +10,23 @@ weight: 8
 Some projects from when I interned as an Internal Consultant in Denver with Anthem 
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+### Main Project: Process Maps for Large Group Sales
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+My main project at Anthem was to help the internal consulting team with making end to end process maps for the sales processes in each state. These maps were made using Microsoft Visio and Blueworks Live. After these processes were mapped out, they would be assessed and a single process would be created to accomodate the implementation of the new Salesforce.com 2.0 system the company was adopting. 
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+Unfortunately, these maps contained a lot of propietary information, so I am not allowed to post them. 
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
-## Header Level 2
+### Side Project: Patient Journey Maps
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+These are snapshots of timelines I created for patient experiences that required executive intervention. Essentially, these were events where the customer became so frustrated that they sent a complaint directly to Anthem's CEO. These journey maps were created for the CEO's team to figure out why the problem wasn't addressed before it became an 'escalated event'. The timelines also include "Root Cause", "Impact", and "Prevention" sections to provide a more condensed summary of the problem to the CEO and her team. 
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+> These timelines contained sensitive information, so the names of customers and employees have been covered. 
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+<img src="/portfolio/8w_Anthem_files/patient_journey_1.PNG" alt="Patient_journey_1" width="600px" height="500px"/>
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+<img src="/portfolio/8w_Anthem_files/patient_journey_2.PNG" alt="Patient_journey_2" width="600px" height="500px"/>
+
+
+
+
