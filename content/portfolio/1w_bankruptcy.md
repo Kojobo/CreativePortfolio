@@ -16,12 +16,12 @@ While doing research for my "Debtor-Creditor Law" class, I came across a large b
 
 In addition to the data, there was also a report published by the DOJ that provided a summary of bankruptcy in the US from 1994 - 2000.
 
-[The original report](https://www.justice.gov/ust/eo/private_trustee/library/chapter07/docs/assetcases/Publicat.pdf) was nearly 50 pages long and had dozens of charts, some of which can be seen in the image below.  
+[The original report](https://www.justice.gov/ust/eo/private_trustee/library/chapter07/docs/assetcases/Publicat.pdf) was nearly 50 pages long and had dozens of charts, some of which are shown below. 
 
 <img src="/portfolio/1w_bankruptcy_files/og_report_grid.PNG" alt="Charts from the original 2001 report" width="600px" height="600px"/>
 
 
-The DOJ has not published a similar report since 2001 I wanted to see if I could use the data I found to recreate the same report. 
+The DOJ has not published a similar report since 2001, and I wanted to see if I could use the data I found, along with what I recently learned using R programming, to recreate the same report. 
 
 Here are the goals I had for this project:
 
@@ -30,9 +30,15 @@ Here are the goals I had for this project:
 3. Update some of the charts to display the data in a way that made it easier for the reader to understand. 
 4. Create interactive and dynamic versions of charts to make the report more engaging for the viewer. 
 
-While I was able to recreate many of the charts and statistics found in the original report, there was some data that was necessary to make certain charts that I was unable to find and therefore, some charts from the original report are missing from my recreated version. 
+To avoid making this post unbearably long I decided to include only a portion of the pages in this post. Check out my github to see the full list of RMarkdown files containing the updated pages of the report as well as the code I used to generate them. While I was able to recreate many of the charts and statistics found in the original report, there was some data that was necessary to make certain charts that I was unable to find and therefore, some charts from the original report are missing from my recreated version. 
 
-> DISCLAIMER: The report I've created is in no way associated with the Department of Justice. 
+> DISCLAIMER: The report I've created is in no way associated with the Department of Justice.
+
+<img src="/portfolio/1w_bankruptcy_files/B1_old_vs_new.PNG" alt="FIG_B1_old_vs_new" width="600px" height="300px"/>
+
+<img src="/portfolio/1w_bankruptcy_files/A3_old_vs_new.PNG" alt="FIG_A3_old_vs_new" width="600px" height="300px"/>
+
+<img src="/portfolio/1w_bankruptcy_files/B4_old_vs_new.PNG" alt="FIG_B4_old_vs_new" width="600px" height="300px"/>
 
 [Click here to my version of the updated report](https://rpubs.com/Kojobo/bankruptcy)
 
@@ -46,9 +52,7 @@ The first task in making this report was assembling all of the bankruptcy data i
 
 <img src="/portfolio/Bankruptcy_files/bankruptcy_data_site.PNG" alt="DOJ CH7 Data page" width="600px" height="600px"/>
 
-Over the nearly two decades that this data has been published, not only has the layout and naming conventions of these data tables changed, the file formats have changed as well. An RMarkdown file laying out all the steps I took to retreive and reformat the data can be found on my github account. 
+Over the nearly two decades that this data has been published, not only have the layout and naming conventions of these data tables changed, the file formats have changed as well. An RMarkdown file laying out all the steps I took to retreive and reformat the data can be found on my github account. 
 
-### Recreating the Charts and Graphics 
 
-After collecting and cleaning the data, I began working my way through the report. Page by page, I recalculated all of the statistics and recreated the charts.The original report is nearly 50 pages and has over 20 charts, so to avoid making this post unbearably long I decided to include only a portion of the pages in this post. Check out my github to see the full list of RMarkdown files containing the updated pages of the report as well as the code I used to generate them. 
 
