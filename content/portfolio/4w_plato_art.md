@@ -32,7 +32,7 @@ In September 2019, my mom and I made this backdrop for a family wedding. The flo
 
 <img src="/portfolio/4w_plato_art_files/wallart3.JPG" alt="wedding_backdrop" width="350px" height="600px"/>
 
-<img src="/portfolio/4w_plato_art_files/IMG-0039 (1).JPG" alt="wedding_backdrop_mom" width="600px" height="500px"/>
+<img src="/portfolio/4w_plato_art_files/IMG-0039.JPG" alt="wedding_backdrop_mom" width="400px" height="600px"/>
 
 <img src="/portfolio/4w_plato_art_files/IMG-5283.JPG" alt="wedding_backdrop_Dani" width="600px" height="600px"/>
 
