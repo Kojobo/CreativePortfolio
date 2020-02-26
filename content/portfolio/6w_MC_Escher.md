@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T19:53:42+05:30"
 draft: false
-image: img/portfolio/art/kipchoge_2.jpg
+image: img/portfolio/art/kipchoge_4.jpg
 showonlyimage: true
 title: Signs for the 2019 Chicago Marathon
 weight: 6
