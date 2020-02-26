@@ -18,9 +18,13 @@ Here are a few things that I've made.
 
 ### Wall Art 
 
+This is an origami piece made from cardstock. 
+
 <img src="/portfolio/4w_plato_art_files/WallArt1.JPG" alt="Plato_prism" width="250px" height="600px"/>
 
-<img src="/portfolio/4w_plato_art_files/ESCR_PURP.jpg" alt="Escher" width="600px" height="600px"/>
+The piece on the left was designed using Cricut Design studio, and the piece on the right is a version made from cardstock. 
+
+<img src="/portfolio/4w_plato_art_files/MC_digital_vs_paper.PNG" alt="Escher_digital_vs_paper" width="600px" height="300px"/>
 
 ### Wedding Backdrop
 
