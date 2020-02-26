@@ -25,6 +25,11 @@ The members of my team loved the logos and wanted to incorporate them throughout
 
 My team was selected from a dozen other teams to represent Ohio State Fisher College of Business in the final round of the competition in New York City where we presented our recommendation to AB InBev executives.In the final round we competed against teams from over 40 business schools from around the country. 
 
+I also created graphics to show the different phases of the renewable energy purchasing process. 
+<img src="/portfolio/3w_AB_InBev_files/abi_phase_1.PNG" alt="ABI_phase1" width="500px" height="500px"/>
+
+<img src="/portfolio/3w_AB_InBev_files/abi_phase_2.PNG" alt="ABI_phase2" width="500px" height="500px"/>
+
  
 
 ![ABInBev Finals NYC][3]
