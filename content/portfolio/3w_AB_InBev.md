@@ -40,4 +40,4 @@ I also created graphics to show the different phases of the renewable energy pur
 [1]: /img/portfolio/ABI/AbInbev_logos.JPG
 [2]: /img/portfolio/ABI/AbInbev_chart.JPG
 [3]: /img/portfolio/ABI/AbInbev_nyc.JPG
-[4]: /img/porfolio/ABI/abinbev_timeline.JPG
+[4]: /img/porfolio/ABI/abinbev_timeline.PNG
