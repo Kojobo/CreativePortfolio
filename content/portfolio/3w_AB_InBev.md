@@ -21,6 +21,7 @@ Initially I struggled to keep information organized because there was a lot of d
 The members of my team loved the logos and wanted to incorporate them throughout our presentation. We added the logos, and updated our charts to incorporate my design.
 
 ![ABInBev Charts][2]
+![ABInBev Charts Project Timlines][4]
 
 My team was selected from a dozen other teams to represent Ohio State Fisher College of Business in the final round of the competition in New York City where we presented our recommendation to AB InBev executives.In the final round we competed against teams from over 40 business schools from around the country. 
 
@@ -35,3 +36,4 @@ My team was selected from a dozen other teams to represent Ohio State Fisher Col
 [1]: /img/portfolio/ABI/AbInbev_logos.JPG
 [2]: /img/portfolio/ABI/AbInbev_chart.JPG
 [3]: /img/portfolio/ABI/AbInbev_nyc.JPG
+[4]: /img/porfolio/ABI/abinbev_timeline.JPG
