@@ -1,31 +1,20 @@
 ---
 date: "2016-11-05T19:56:17+05:30"
 draft: false
-image: ""
+image: img/portfolio/MA/ma_profile.PNG
 showonlyimage: false
-title: Name of the work 6
+title:A Modern Take on Mergers & Acquisitions
 weight: 7
 ---
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+These are some interactive graphics that depict some basic M&A transactions. 
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+In law school I took a Mergers & Acquisitions class. The book we used contained graphics that visualized the main types of transactions that we would be studying that semester. Below are some examples of modernized graphics that I believe make it easier to understand what's going on in these transactions. 
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+### Basic Merger Between Two Parties: Stock for Stock Transaction 
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+This is the simplest form a merger can take. 
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+<img src="/portfolio/7w_BLANK_files/plain_merger.PNG" alt="plain_merger_stockforstock " width="450px" height="600px"/>
 
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
