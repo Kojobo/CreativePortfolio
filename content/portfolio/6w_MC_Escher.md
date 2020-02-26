@@ -20,6 +20,10 @@ Here is a picture of me holding the sign in China Town. (it was very early)
 
 <img src="/portfolio/6w_MC_Escher_files/kipchoge_3.JPG" alt="Kipchoge_1" width="400px" height="600px"/>
 
+Here is a picture of me and other members of my family holding up the signs I made. 
+
+<img src="/portfolio/6w_MC_Escher_files/kipchoge_1.jpg" alt="kipchoge_1" width="500px" height="500px"/>
+
 Here is a picture of the sign from the Chicago Marathon's instagram page.
 
 <img src="/portfolio/6w_MC_Escher_files/kipchoge_2.JPG" alt="kipchoge_2" width="400px" height="600px"/>
