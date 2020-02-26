@@ -53,6 +53,8 @@ This chart shows provides an analysis of the chutes and CTEs throughout the year
 
 <img src="/portfolio/2w_AF_sixsig_files/chute_analysis.jpg" alt="chute_analysis" width="600px" height="450px"/>
 
+I also created an interactive and scalable application for the A&F team. Unfortunately I am not able to post this application because it contained confidential information. 
+
 [1]: /img/portfolio/AF/AF_CTE.jpg
 [2]: /img/portfolio/AF/AF_underfill.jpg
 [3]: /img/portfolio/AF/AF_WorkFlow.PNG
