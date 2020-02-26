@@ -5,6 +5,7 @@ title: About me
 
 What initially started as a goal to learn a single language, R programming, has expanded to include becoming familiar with other langauges and technologies. Some of those languages include HTML, CSS, javascript, HTMLwidgets, github, and others. 
 
+This portfolio was made using RStudio, along with GitHub and Hugo. 
 
 ![This is me][1]
 
