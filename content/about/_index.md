@@ -13,6 +13,4 @@ This site is a collection of some of the projects I worked on during graduate sc
 
 This portfolio was made using RStudio, along with GitHub and Hugo. 
 
-![This is me][1]
-
-[1]: /img/about.jpg
+![Linked_in Profile pic ](/about/_index_files/Kolton_B.jpg)
