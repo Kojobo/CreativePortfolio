@@ -10,6 +10,7 @@ weight: 9
 In this MBA course I was able to apply my newly acquired programming skills to a variety of analytical challenges based in the health care industry. 
 <!--more-->
 
+Here are a few charts from my team's final project; they were made in RStudio using the ggplot2 package. 
 
 ![Box plot](/img/portfolio/HCA/gender_diff_box.PNG)
 
