@@ -30,7 +30,6 @@ I also created graphics to show the different phases of the renewable energy pur
 
 <img src="/portfolio/3w_AB_InBev_files/abi_phase_2.PNG" alt="ABI_phase2" width="500px" height="500px"/>
 
- 
 
 ![ABInBev Finals NYC][3]
 
