@@ -16,5 +16,4 @@ In law school I took a Mergers & Acquisitions class. The book we used contained 
 
 This is the simplest form a merger can take. 
 
-<img src="/portfolio/7w_BLANK_files/plain_merger.PNG" alt="plain_merger_stockforstock " width="450px" height="600px"/>
 
