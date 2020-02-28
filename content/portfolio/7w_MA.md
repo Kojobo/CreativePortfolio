@@ -20,6 +20,12 @@ In law school I took a Mergers & Acquisitions class. The book we used contained 
 
 <img src="/portfolio/7w_BLANK_files/vanilla_p3.PNG" alt="vanilla_phase3" width="600px" height="400px"/>
 
+### Cash-Out Merger
 
+<img src="/portfolio/7w_BLANK_files/cash_out_p1.PNG" alt="cashout_phase1" width="600px" height="400px"/>
+
+<img src="/portfolio/7w_BLANK_files/cash_out_p2.PNG" alt="cashout_phase2" width="600px" height="400px"/>
+
+<img src="/portfolio/7w_BLANK_files/cash_out_p3.PNG" alt="cashout_phase3" width="600px" height="400px"/>
 
 
