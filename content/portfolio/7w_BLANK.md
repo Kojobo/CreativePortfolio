@@ -12,7 +12,8 @@ These are some interactive graphics that depict some basic M&A transactions.
 
 In law school I took a Mergers & Acquisitions class. The book we used contained graphics that visualized the main types of transactions that we would be studying that semester. Below are some examples of modernized graphics that I believe make it easier to understand what's going on in these transactions. 
 
-### Basic Merger Between Two Parties: Stock for Stock Transaction 
+### Basic Merger Between Two Parties
+#### Stock for Stock Transaction 
 
 <img src="/portfolio/7w_BLANK_files/vanilla_p1.PNG" alt="vanilla_phase1" width="600px" height="400px"/>
 
