@@ -3,25 +3,25 @@ date: "2016-11-05T19:41:01+05:30"
 draft: false
 image: img/portfolio/bank/bank_port_profile.PNG
 showonlyimage: false
-title: Liquidation Nation
+title: Bankruptcy Report Remake
 weight: 1
 ---
 
-An updated report on Chapter 7 Bankruptcy in the US from 2001-2018
+I recreated an old report on Chapter 7 Bankruptcy using data from the Department of Justice. 
 <!--more-->
 
 ## Background on the Project 
 
-While doing research for my "Debtor-Creditor Law" class, I came across a large bankruptcy dataset on the Department of Justice's website. This dataset had information on every Chapter 7 asset case that had closed between 2000 and the present day. In total, the dataset spanned nearly two decades and contained information on just under 1 million cases. 
+While doing research for my "Debtor-Creditor Law" class, I came across a large bankruptcy dataset on the Department of Justice's website. This dataset contained detailed information on every Chapter 7 asset case that had closed since 2001. Essentially, the dataset included every asset case that had closed during the 21st century, totalling just under 1 million cases. 
 
-In addition to the data, there was also a report published by the DOJ that provided a summary of bankruptcy in the US from 1994 - 2000.
+In addition to the data, I also found a report that provided a summary of bankruptcy from 1994 - 2000.
 
-[The original report](https://www.justice.gov/ust/eo/private_trustee/library/chapter07/docs/assetcases/Publicat.pdf) was nearly 50 pages long and had dozens of charts, some of which are shown below. 
+[The original report](https://www.justice.gov/ust/eo/private_trustee/library/chapter07/docs/assetcases/Publicat.pdf), published by the DOJ in 2001, had dozens of charts, some of which are shown below. 
 
 <img src="/portfolio/1w_bankruptcy_files/og_report_grid.PNG" alt="Charts from the original 2001 report" width="600px" height="600px"/>
 
 
-The DOJ has not published a similar report since 2001, and I wanted to see if I could use the data I found, along with what I recently learned using R programming, to recreate the same report. 
+The DOJ has not published a similar report since 2001, and I wanted to see if I could use the data I found and my skills in R programming to recreate the report. 
 
 Here are the goals I had for this project:
 
@@ -30,7 +30,7 @@ Here are the goals I had for this project:
 3. Update some of the charts to display the data in a way that made it easier for the reader to understand. 
 4. Create interactive and dynamic versions of charts to make the report more engaging for the viewer. 
 
-To avoid making this post unbearably long I decided to include only a portion of the pages in this post. Check out my github to see the full list of RMarkdown files containing the updated pages of the report as well as the code I used to generate them. While I was able to recreate many of the charts and statistics found in the original report, there was some data that was necessary to make certain charts that I was unable to find and therefore, some charts from the original report are missing from my recreated version. 
+To avoid making this post unbearably long I decided to include only a portion of the new report in this post. Check out my github to see the full list of RMarkdown files containing the updated pages of the report as well as the code I used to generate them. While I was able to recreate much of the report, there was some data that was necessary to make certain charts that I was unable to find and therefore, some charts from the original report are not in my recreated version. 
 
 > DISCLAIMER: The report I've created is in no way associated with the Department of Justice.
 
