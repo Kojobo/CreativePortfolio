@@ -5,7 +5,6 @@ image: img/portfolio/bank/bank_port_profile.PNG
 showonlyimage: false
 title: Liquidation Nation
 weight: 1
-tags: ["Law", "Projects", "Reports"]
 ---
 
 An updated report on Chapter 7 Bankruptcy in the US from 2001-2018
