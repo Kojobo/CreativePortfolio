@@ -1,20 +1,18 @@
 ---
-title: Practice RMarkdown
+title: attempt
 author: Kolton Bodnovich
 date: '2020-04-06'
-slug: practice-rmarkdown
+slug: attempt
 categories: []
 tags: []
 image: ''
 showonlyimage: no
 ---
 
-
 ```{r}
-library(tidyverse)
+library(ggplot2)
 
 ggplot(mpg, aes(x = displ, y = hwy)) +
   geom_point()
-
 ```
 
