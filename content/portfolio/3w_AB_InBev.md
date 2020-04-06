@@ -7,12 +7,18 @@ title: AB InBev Sustainability Challenge
 weight: 3
 ---
 
-In 2017 my team made it to the final round of the Anheuser Busch InBev case competition.  
+My team made it to the final round of Anheuser-Busch InBev's case competition for first-year MBA students.
 <!--more-->
 
-The challenge for our team was to evaluate six different renewable energy projects and determine which project was the best choice to help AB InBev achieve its goal of using 100% rewewable energy by 2025. 
+In 2017 I participated in a case competition hosted by Anheuser-Busch InBev (ABI) that focused on sustainability and renewable energy. The competition exposed me to a variety of topics, from which I gained valuable insights. Aside from learning about ABI, the world's largest beverage company, and the renewable energy sector, I witnessed the power and value of data visualization. 
 
-We were given a spreadsheet with various pieces of information for each project. Of the six projects, three were solar powered, and three were wind powered. My initial task for the team was to evaluate the contract terms for each of the projects, and to conduct research to find any incentive programs created by state or federal governments. 
+The competition focused on ABI's initiative to achieve 100% sustainable energy by 2025. To achieve this, ABI wanted to invest in a renewable energy project: our task was to determine the best project to invest in. All first-year MBA students were welcome to participate: more than 1/3 of the class signed up. 
+
+The competition had 3 phases. In Phase 1, each team submitted a short video outlining their recommendation. In Phase 2, teams presented their recommendations to local ABI employees. One team from each business school was selected to move on to Phase 3, where you pitched your recommendation to ABI executives in New York City. 
+
+ABI provided a spreadsheet of information on 3 wind energy projects and 3 solar. Teams used this information to develop criteria for evaluating the pros and cons of each project. Cost, project timeline, contract terms, electricity generated, construction company details, etc. 
+
+In addition to myself, our team had two other members: Matt Morris and Kathleen Ott. At the very beginning of the competition we decided that each of us should be responsible for a specific topic. Matt focused mainly on the finance related elements of the project and Kathleen worked handled all marketing components. I had just completed my second year of law school, so I was initially responsible for evaluating contract terms and determining which, if any, government incentive programs ABI could benefit from. 
 
 Initially I struggled to keep information organized because there was a lot of data for each project. I decided to create a logo for each of the projects along with a specific color so that it would be easier to mentally associate individual projects with their respective information. 
 

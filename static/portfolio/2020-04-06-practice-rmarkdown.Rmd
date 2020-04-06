@@ -1,0 +1,10 @@
+---
+title: Practice RMarkdown
+author: Kolton Bodnovich
+date: '2020-04-06'
+slug: practice-rmarkdown
+categories: []
+tags: []
+image: ''
+showonlyimage: no
+---
