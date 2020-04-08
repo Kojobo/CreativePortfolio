@@ -79,6 +79,44 @@ B7 + bank_theme
 
 ```
 
+```{r B12 data, echo=FALSE, message=FALSE}
+
+b3 <- read_csv("B12_data.csv", 
+     col_types = cols(X1 = col_skip(), size = col_factor(levels = c("<$5K", 
+        "$5K-$10K", "$10K-$20K", "$20K-$30K", "$30K-$40K", "40K-$50K", "50K-$100K", "$100K-$250K", "$250K-$500K", ">$500K")), 
+        variable = col_factor(levels = c('Unsecured', 'Priority', 'Secured'))))
+
+b_text <- read_csv("B12_textgeom_data.csv", 
+    col_types = cols(X1 = col_skip(), size = col_factor(levels = c("<$5K", 
+        "$5K-$10K", "$10K-$20K", "$20K-$30K", "$30K-$40K", "40K-$50K", "50K-$100K", "$100K-$250K", "$250K-$500K", ">$500K"))))
+```
+
+
+```{r B12 Chart, echo=FALSE, message=FALSE}
+
+ggplot(b3, aes(x = size, y = value)) + 
+  geom_col(aes(fill = variable),color = "black", width  = 0.6) +
+  scale_fill_manual(values = c(Secured = "blue", Priority = "red", Unsecured = "yellow")) +
+  theme(axis.text.x = element_text(size = rel(1.5), color = 'black'), 
+        axis.text.y = element_text(size = rel(1.5), color = 'black'),
+        axis.title.x = element_text(size = 17, face = "bold", margin = margin(t = 10)), 
+        axis.title.y = element_text(size = 17, face = "bold", margin = margin(r = 15)),
+        legend.position = "bottom",
+        legend.title = element_blank(),
+        legend.background = element_rect(fill = "white", color = "black"),
+        legend.text = element_text(size = 17),
+        panel.background = element_rect(fill = "white"),
+        panel.grid.major.y = element_line(color = "black"),
+        plot.title = element_text(hjust = 0.5, size = 17, face = "bold")) +
+  xlab("SIZE OF CASE") +
+  ylab("% OF TOTAL RECEIPTS") +
+  guides(fill = guide_legend(reverse = T)) +
+  ggtitle("DISTRIBUTION BY TYPE AND AMOUNT\nCALENDAR YEARS 2001 - 2018") +
+  scale_y_continuous(breaks = c(0, 10, 20, 30, 40, 50, 60, 70),
+                     labels = c("0%", "10%", "20%", "30%", "40%", "50%", "60%", "70%")) +
+  geom_text(aes(x = size, y = perc_cr, label = paste(format(perc_cr, digits = 3), "%"))
+            , fontface = "bold", data = b_text, nudge_y = 2, size = 5)
+```
 
 
 ### Maps
