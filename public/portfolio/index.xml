@@ -97,12 +97,12 @@ Wedding Backdrop In September 2019, my mom and I made this backdrop for a family
     </item>
     
     <item>
-      <title>attempt</title>
-      <link>/portfolio/attempt/</link>
+      <title>Data Viz Project: Bankruptcy Report Revamp</title>
+      <link>/portfolio/2020-04-06-attempt/</link>
       <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/attempt/</guid>
-      <description>library(ggplot2)ggplot(mpg, aes(x = displ, y = hwy)) +geom_point()</description>
+      <guid>/portfolio/2020-04-06-attempt/</guid>
+      <description>Bar ChartsMaps</description>
     </item>
     
   </channel>
