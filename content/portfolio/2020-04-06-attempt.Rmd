@@ -80,15 +80,12 @@ B7 + bank_theme
 ```
 
 ```{r B12 data, echo=FALSE, message=FALSE}
+library(readr)
+b3 <- B12_data <- read_csv("B12_data.csv", 
+    col_types = cols(X1 = col_skip()))
 
-b3 <- read_csv("B12_data.csv", 
-     col_types = cols(X1 = col_skip(), size = col_factor(levels = c("<$5K", 
-        "$5K-$10K", "$10K-$20K", "$20K-$30K", "$30K-$40K", "40K-$50K", "50K-$100K", "$100K-$250K", "$250K-$500K", ">$500K")), 
-        variable = col_factor(levels = c('Unsecured', 'Priority', 'Secured'))))
-
-b_text <- read_csv("B12_textgeom_data.csv", 
-    col_types = cols(X1 = col_skip(), size = col_factor(levels = c("<$5K", 
-        "$5K-$10K", "$10K-$20K", "$20K-$30K", "$30K-$40K", "40K-$50K", "50K-$100K", "$100K-$250K", "$250K-$500K", ">$500K"))))
+b_text <- B12_textgeom_data <- read_csv("B12_textgeom_data.csv", 
+    col_types = cols(X1 = col_skip()))
 ```
 
 
