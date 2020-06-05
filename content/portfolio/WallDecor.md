@@ -9,4 +9,6 @@ tags: []
 
 Various things I've created to liven up my walls.
 
+<!--more-->
+
 MC EScher, Prism, Shannon's canvases, Space Grafiti, Cork board makeover, Kennedy's nursery, 

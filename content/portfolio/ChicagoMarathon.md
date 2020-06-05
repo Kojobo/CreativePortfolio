@@ -7,6 +7,9 @@ categories: []
 tags: []
 ---
 
+I made some signs for the 2019 Chicago Marathon
+
+<!--more-->
 
 Cool like kipchoge - because my little brother's favorite runner is Eliud Kipchoge
 
