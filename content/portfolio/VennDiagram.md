@@ -5,7 +5,7 @@ date: '2020-06-02'
 slug: searching-for-a-new-venn-diagram
 categories: []
 tags: []
-image: ''
+image: img/portfolio/VennDiagram.png
 showonlyimage: no
 ---
 
