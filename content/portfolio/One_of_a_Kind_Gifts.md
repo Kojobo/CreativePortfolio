@@ -5,6 +5,7 @@ date: '2020-06-02'
 slug: one-of-a-kind-gifts
 categories: []
 tags: []
+image: img/portfolio/Gifts.jpg
 ---
 
 I prefer to make gifts rather than buying something from a store. Here are some of my favorite creations. 

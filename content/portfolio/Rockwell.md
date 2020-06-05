@@ -5,7 +5,7 @@ date: '2020-06-01'
 slug: rockwell
 categories: []
 tags: []
-image: ''
+image: img/portfolio/Rockwell
 showonlyimage: no
 ---
 

@@ -5,6 +5,7 @@ date: '2020-06-02'
 slug: 3d-printing
 categories: []
 tags: []
+image: img/portfolio/3DPrinting
 ---
 
 I received a 3D printer in April for my birthday. Here are a few of the things I've printed so far. 
