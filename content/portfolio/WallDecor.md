@@ -5,6 +5,7 @@ date: '2020-06-02'
 slug: wall-decor
 categories: []
 tags: []
+image: img/portfolio/prism.jpg
 ---
 
 Various things I've created to liven up my walls.
