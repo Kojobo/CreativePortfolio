@@ -1,6 +1,6 @@
 ---
 date: "2016-11-05T19:56:17+05:30"
-draft: false
+draft: true
 image: img/portfolio/MA/ma_profile.PNG
 showonlyimage: false
 title: A Modern Take on Mergers & Acquisitions

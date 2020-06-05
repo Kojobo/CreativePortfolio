@@ -1,6 +1,6 @@
 ---
 date: "2016-11-05T20:02:19+05:30"
-draft: false
+draft: true
 image: img/portfolio/HCA/HC_analytics.PNG
 showonlyimage: false
 title: Health Care Analytics 
