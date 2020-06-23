@@ -5,6 +5,6 @@ date: '2020-06-04'
 slug: finance-diagrams
 categories: []
 tags: []
-image: ''
+image: img/portfolio/Finance.jpg
 showonlyimage: no
 ---
