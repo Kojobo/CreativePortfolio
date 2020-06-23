@@ -3,6 +3,7 @@ title: Designing an Olympic Medal
 author: Kolton Bodnovich
 date: '2020-06-02'
 slug: designing-an-olympic-medal
+image: img/portfolio/medal.png
 categories: []
 tags: []
 ---
