@@ -6,5 +6,5 @@ slug: canvasupcyle
 categories: []
 tags: []
 image: img/portfolio/Canvas.jpg
-showonlyimage: no
+showonlyimage: yes
 ---
