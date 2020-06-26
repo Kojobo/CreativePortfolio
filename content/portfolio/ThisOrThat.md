@@ -3,7 +3,7 @@ title: This-or-That-inator
 author: Kolton Bodnovich
 date: '2020-06-04'
 slug: this-or-that-inator
-categories: []
+categories: [Prototype]
 tags: []
 image: img/portfolio/This_or_that.jpg
 showonlyimage: no

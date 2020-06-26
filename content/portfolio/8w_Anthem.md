@@ -1,6 +1,6 @@
 ---
 date: "2016-11-05T19:59:22+05:30"
-draft: true
+draft: false
 image: img/portfolio/anth/Anthem_profile.png
 showonlyimage: false
 title: Anthem Inc.
@@ -11,6 +11,10 @@ Some projects from when I interned as an Internal Consultant in Denver with Anth
 <!--more-->
 
 ### Main Project: Process Maps for Large Group Sales
+
+
+![](https://media.giphy.com/media/ii7wZbmiTKfGRsHR0K/giphy.gif)
+
 
 My main project at Anthem was to help the internal consulting team with making end to end process maps for the sales processes in each state. These maps were made using Microsoft Visio and Blueworks Live. After these processes were mapped out, they would be assessed and a single process would be created to accomodate the implementation of the new Salesforce.com 2.0 system the company was adopting. 
 
