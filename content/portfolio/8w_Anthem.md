@@ -13,7 +13,7 @@ Some projects from when I interned as an Internal Consultant in Denver with Anth
 ### Main Project: Process Maps for Large Group Sales
 
 
-![](https://media.giphy.com/media/ii7wZbmiTKfGRsHR0K/giphy.gif)
+![](https://www.dropbox.com/s/ey7c28xfd9xiqdj/IMG_2232.GIF?dl=0)
 
 
 My main project at Anthem was to help the internal consulting team with making end to end process maps for the sales processes in each state. These maps were made using Microsoft Visio and Blueworks Live. After these processes were mapped out, they would be assessed and a single process would be created to accomodate the implementation of the new Salesforce.com 2.0 system the company was adopting. 
