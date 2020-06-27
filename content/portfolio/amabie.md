@@ -6,6 +6,6 @@ slug: Amabie
 categories:
   - Hobbies
 tags: []
-image: img/portfolio/amabie.jpg
+image: img/portfolio/amabie_1.jpg
 showonlyimage: no
 ---
