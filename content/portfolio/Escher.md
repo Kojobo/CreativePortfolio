@@ -6,7 +6,7 @@ slug: mc-escher
 categories: []
 tags: []
 image: img/portfolio/Escher.jpg
-showonlyimage: no
+showonlyimage: yes
 ---
 
 

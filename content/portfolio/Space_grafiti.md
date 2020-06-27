@@ -6,5 +6,5 @@ slug: space-grafiti
 categories: []
 tags: []
 image: img/portfolio/Space_grafiti.jpg
-showonlyimage: no
+showonlyimage: yes
 ---
