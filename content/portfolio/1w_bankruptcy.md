@@ -4,7 +4,6 @@ draft: true
 image: img/portfolio/bank/bank_port_profile.PNG
 showonlyimage: false
 title: Bankruptcy Report Remake
-weight: 1
 ---
 
 Data Viz Project: Bankruptcy Report Revamp

@@ -4,7 +4,6 @@ draft: true
 image: img/portfolio/anth/Anthem_profile.png
 showonlyimage: false
 title: Anthem Inc.
-weight: 8
 ---
 
 Some projects from when I interned as an Internal Consultant in Denver with Anthem 

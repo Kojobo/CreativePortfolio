@@ -9,7 +9,6 @@ categories:
 tags: []
 image: img/portfolio/art/WallArt1.JPG
 showonlyimage: yes
-weight: 4
 ---
 
 

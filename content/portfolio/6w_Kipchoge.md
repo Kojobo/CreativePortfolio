@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/art/kipchoge_4.jpg
 showonlyimage: false
 title: Chicago Marathon 2019
-weight: 6
+weight: 3
 ---
 
 The Chicago Marathon's official instagram account picked my race sign as one of the best at the entire race.
@@ -13,7 +13,7 @@ The Chicago Marathon's official instagram account picked my race sign as one of 
 
 In 2019, my little brother ran in the Chicago Marathon. I made some signs for me and my family so that he could spot us in the crowd during the race. After the race, one of my signs was showcased by the official Chicago Marathon instagram account as one of the favorite signs of Chicago Marathon. 
 
-Making funny or witty race signs is a pretty popular sideline activity for spectators at these events. There are plenty of running websites that post signs from previous races that you can use as inspiration when making for your own. After combing through these articles I realized that there were a dozen or so sign designs that kept being repeated race after race. I wanted to create something that the running world had never seen before, so instead of using these running articles as an example for what to make, I used them to determine what *not* to make. 
+Making funny or witty race signs is a pretty popular sideline activity for spectators at these events. There are plenty of running websites that post signs from previous races that you can use as inspiration when making your own. After combing through these articles I realized that there were a dozen or so sign designs that kept being repeated race after race. I wanted to create something that the running world had never seen before, so instead of using these running articles as an example for what to make, I used them to determine what *not* to make. 
 
 After consulting my siblings and their significant others for sign ideas, I eventually settled on these four designs. Aside from the metallic letters, everything was made using a Cricut. Most of the letters were cut from cardstock, but I used vinyl for the font on the yellow sign because I had never used vinyl and we had it in our craft closet so I figured I'd give it a whack. 
 

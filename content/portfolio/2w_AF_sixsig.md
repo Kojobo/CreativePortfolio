@@ -4,7 +4,6 @@ draft: false
 image: img/portfolio/AF/sixsigma.png
 showonlyimage: false
 title: Six Sigma with Abercrombie & Fitch 
-weight: 2
 ---
 
 A six sigma project I completed to earn my Green belt. 

@@ -4,7 +4,6 @@ draft: true
 image: img/portfolio/MA/ma_profile.PNG
 showonlyimage: false
 title: A Modern Take on Mergers & Acquisitions
-weight: 7
 ---
 
 These are some interactive graphics that depict some basic M&A transactions. 

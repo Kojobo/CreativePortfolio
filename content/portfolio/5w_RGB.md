@@ -4,7 +4,6 @@ draft: true
 image: img/portfolio/RGB.jpg
 showonlyimage: true
 title: RGB
-weight: 5
 ---
 
 This is a graphic I made to help me learn RGB color codes.  

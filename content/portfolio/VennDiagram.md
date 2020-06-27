@@ -1,5 +1,5 @@
 ---
-title: Searching for a New Venn Diagram
+title: The Hunt for a New Venn Diagram
 author: Kolton Bodnovich
 date: '2020-06-02'
 slug: searching-for-a-new-venn-diagram
@@ -7,6 +7,7 @@ categories: []
 tags: []
 image: img/portfolio/venn.jpg
 showonlyimage: no
+weight: 3
 ---
 
 Can you make a Venn Diagram using a shape other than a circle? 
