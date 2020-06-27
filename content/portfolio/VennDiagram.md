@@ -10,7 +10,7 @@ showonlyimage: no
 weight: 3
 ---
 
-Can you make a Venn Diagram using a shape other than a circle? 
+Can you make a Venn Diagram with more than 3 circles? What about a shape other than a circle? 
 
 <!--more-->
 
