@@ -5,6 +5,6 @@ date: '2020-06-22'
 slug: weekly-sleep-schedule
 categories: []
 tags: []
-image: img/portfolio/sleep.jpg
+image: img/portfolio/Sleep/sleep_sched.jpg
 showonlyimage: no
 ---
