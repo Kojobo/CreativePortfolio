@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T20:22:08+05:30"
 draft: false
-image: img/portfolio/AF/Dead_space_graphic.PNG
+image: img/portfolio/AF/sixsigma.png
 showonlyimage: false
 title: Six Sigma with Abercrombie & Fitch 
 weight: 2
