@@ -6,5 +6,6 @@ slug: weekly-sleep-schedule
 categories: []
 tags: []
 image: img/portfolio/Sleep/sleep_sched.jpg
-showonlyimage: no
+showonlyimage: yes
 ---
+
