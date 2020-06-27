@@ -2,12 +2,12 @@
 date: "2016-11-05T19:53:42+05:30"
 draft: false
 image: img/portfolio/art/kipchoge_4.jpg
-showonlyimage: true
-title: Signs for the 2019 Chicago Marathon
+showonlyimage: false
+title: Chicago Marathon 2019
 weight: 6
 ---
 
-I made some signs for the 2019 Chicago Marathon.
+The Chicago Marathon's official instagram account picked my race sign as one of the best at the entire race.
 
 <!--more-->
 
