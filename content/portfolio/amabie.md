@@ -17,7 +17,7 @@ I came across this 'challenge' while parousing through IDEO's blog (The Octopus)
 
 The design was made on a generation 1 iPad pro using the original Apple pencil and an app called Notability. 
 
-The article is about a mythical sea creature from Japanese folklore, named Amabie. The 'challenge' element of this story is to come up with an idea for what Amabie looks like, provided a list of three constraints. The rules are that your Amabie must include: 
+The IDEO article is about a mythical sea creature from Japanese folklore, named Amabie. The 'challenge' element of this story is to come up with an idea for what Amabie looks like, provided a list of three constraints. The rules are that your Amabie must include: 
 
 1. A Beak
 2. Long-Hair
@@ -53,7 +53,7 @@ I think if I were to make Amabie again I might follow through with the squid bea
 
 ![](/portfolio/amabie_files/amabie_eye.jpg)
 
-This wasn't one of the requirements, but I knew I wanted to make the eye a main feature in the design because Amabie is able to see into the future. I used a fisheye as a reference, but instead of having giant black center, I made it absurdly large, and white to somewhat allude to Amabie's power to see the future. Also, white is usually seen more as the **good** color when compared to black, and Amabie sounds like a chill entity that promotes good rather than evil. The Iris is mainly blue, but its got a little bit of everything inside. The outer eye ring is the same shade of purple I wanted to emphasize in the beak; so those two elements somewhat reinforce each other. 
+This wasn't one of the requirements, but I knew I wanted to make the eye a main feature in the design because Amabie is able to see into the future. I used a fisheye as a reference, but instead of having a large black pupil, I made it absurdly large and white to somewhat allude to Amabie's power to see the future.  The Iris is mainly blue, but its got a little bit of everything inside. The outer eye ring is the same loud purple as the beak's; so those two elements somewhat reinforce each other. 
 
 ### The Scales
 
@@ -73,19 +73,24 @@ Things got real weird with this background..
 ![](/portfolio/amabie_files/amabie_purple.jpg)
 
 ## Fin-like Legs
-I used a beta fish as inspiration for the fin-like legs; they were initially much more flowy but I trimmed them down and made them resemble some sort of bell bottoms you'd see on Saturday Night Fever.
+I used a beta fish as inspiration for the *fin-like legs*; they were initially much more flowy but I trimmed them down and made them resemble some sort of bell bottoms you'd see on Saturday Night Fever.
 
-About halfway into designing the legs, I realized that the prompt never stated the gender of Amabie. My initial initial thought after reading the prompt was that   
+![FinLegs](/portfolio/amabie_files/amabie_finlegs_zoomish.jpg)
+![fins_closeup](/portfolio/amabie_files/fin_legs_close_up.jpg)
+
+About halfway into designing the legs, I realized that the prompt never stated the gender of Amabie. My initial initial thought after reading the prompt was that Amabie gave off more of a female vibe, but I tried to steer towards more of a gender neutral design. 
+
+
 
 ## Long Hair
 
-This was honestly the hard restraint for me. Hair isn't typically something you see when dealing with creatures of the sea, so I puzzled over this one for quite a bit. Eventually I went with a single strand of hair on the top of their head because it seemed funny to have this ghost-like entity with a giant hair poking up. 
+This was honestly the hardest restraint for me. Hair isn't typically something you see when dealing with creatures of the sea, so I puzzled over this one for quite a bit. Eventually I went with a single strand of hair on the top of their head because it seemed funny to have this ghost-like entity with a giant hair poking up. 
 
 ## Arms
 
-This was the final element I added because I wasnt sure how to make arms that didn't cover up what I had already drawn. To be honest, I almost didnt add arms because I didn't know what to make. I started with same general idea that I used to make the legs (ie betafish) but then tried to make them much more flowy. I was aiming for making something that looked somewhat like giant baggy sleeves, but I think they look more like a pair of Victoria Secret Wings. 
+This was the final element I added because I wasnt sure how to make arms that didn't cover up what I had already drawn. To be honest, I almost didnt add arms because I didn't know what to make. I started with the same general idea that I used to make the legs (ie betafish) but then tried to make them much more flowy. I was aiming for something that looked somewhat like giant baggy sleeves, but I think they look more like a pair of Victoria Secret Wings. 
 
-Although I used the same color for the arms and the single hair, I'm sticking to the initial idea that the only hair Amabie has is on their head. It may look like hair, but I assure you, it isn't. 
+Although I used the same color for the arms and the single hair on the head, I'm sticking to the initial idea that the only hair Amabie has is on their head. Whatever she's got for arms, it is not hair. It may look like hair, but I assure you, it isn't. 
 
 I was literally blown away when I saw what everyone else had made. 
 
