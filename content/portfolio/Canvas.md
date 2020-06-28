@@ -9,4 +9,10 @@ image: img/portfolio/Canvas.jpg
 showonlyimage: yes
 ---
 
-A craft project my friend didn't feel like finishing. 
+A craft project my friend didn't feel like finishing.
+
+![](/portfolio/Canvas_files/Canvas2_zoomed.jpg)
+![](/portfolio/Canvas_files/Canvas_all3.jpg)
+![](/portfolio/Canvas_files/canvas_hotpink.jpg)
+![](/portfolio/Canvas_files/canvas_hotpink_back.jpg)
+![](/portfolio/Canvas_files/canvas_hotpink_back_zoomed.jpg)
