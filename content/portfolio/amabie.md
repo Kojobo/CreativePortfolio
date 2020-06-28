@@ -41,7 +41,7 @@ I also like that the pattern gives the beak a more of a 3D vibe.
 
 I also considered squid beaks for a moment, instead of a bird beak, but those are mainly internal so you wouldn't be able to see it. 
 
-I think if I were to make Amabie again I might follow through with the squid beak and go with more of a cephalapod vibe. I could draw something similar to a squid, and include the other parameters without making the beak expressly visible, the way you might see a normal squid. I didn't think of that at first,but now that I'm thinking about it again while typing this post I'm having the realization that just because I have something doesn't mean that it *must* been seen. I have a brain, but you can't see it; Amabie can have a beak, and we don't have to see it to believe it. 
+I think if I were to make Amabie again I might follow through with the squid beak and go with more of a cephalapod vibe. I could draw something similar to a squid, and include the other parameters without making the beak expressly visible, the way you might see a normal squid. I didn't think of that at first,but now that I'm thinking about it again while typing this post I'm having the realization that just because I have something doesn't mean that it *must* been seen or on display. I have a brain, but you can't see it; Amabie can have a beak, and we don't have to see it to believe it. 
 
 ## The Eye
 
