@@ -62,6 +62,8 @@ And finally I created a solid for the middle intersection.
 
 ![](/portfolio/VennDiagram_files/VennDiagram_3D_all.png)
 
+![](/portfolio/VennDiagram_files/VennDiagram_3D_center_2.png)
+
 
 
 > 

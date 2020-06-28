@@ -7,7 +7,7 @@ categories:
   - Hobbies
 tags: []
 image: img/portfolio/amabie_1.jpg
-showonlyimage: yes
+showonlyimage: no
 weight: 2
 ---
 
