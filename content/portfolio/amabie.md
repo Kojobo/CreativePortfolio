@@ -97,7 +97,7 @@ I can't really think of any contexts where Amabie would be deemed meme-worthy. H
 
 ### Amabie vs. Old Gregg
 
-Brainstorming meme ideas eventually led me to make to a different mythical creature that actually has a lot in common with Amabie: Old Gregg. If you've never seen or heard of Old Gregg, boy are you in for a treat. Old Gregg is a mythical sea creature that appears in Season 2, Episode 5 of **The Mighty Boosh**, a very trippy British comedy. The character is played by Noel Fielding: a British comedian and my favorite host co-host from the Great British Bake Off.
+Brainstorming meme ideas eventually led me to thinking about a different mythical sea creature with long hair: Old Gregg. If you've never seen or heard of Old Gregg, boy are you in for a treat. Old Gregg is a mythical sea creature that appears in Season 2, Episode 5 of **The Mighty Boosh**, a very trippy British TV comedy. The character is played by Noel Fielding, a popular British comedian and my favorite co-host on the Great British Bake Off.
 
 
 ![](/portfolio/amabie_files/noelfielding.JPG)
@@ -105,4 +105,3 @@ Brainstorming meme ideas eventually led me to make to a different mythical creat
 ![Old Gregg](/portfolio/amabie_files/oldgregg_closeup.jpg)
 
 
-The full episode from the show is only f you're watching Old Gregg for the first time, you will either love it, or you will stop watching after a few minutes. Fair warning though, Old Gregg is superweird. 
