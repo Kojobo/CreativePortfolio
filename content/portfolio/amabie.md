@@ -73,7 +73,9 @@ Things got real weird with this background..
 ![](/portfolio/amabie_files/amabie_purple.jpg)
 
 ## Fin-like Legs
-I used a beta fish as inspiration for the fin-like legs; they were initially much more flowy but I trimmed them down and made them resemble some sort of bell bottoms you'd see on Saturday Night Fever
+I used a beta fish as inspiration for the fin-like legs; they were initially much more flowy but I trimmed them down and made them resemble some sort of bell bottoms you'd see on Saturday Night Fever.
+
+About halfway into designing the legs, I realized that the prompt never stated the gender of Amabie. My initial initial thought after reading the prompt was that   
 
 ## Long Hair
 
@@ -88,3 +90,19 @@ Although I used the same color for the arms and the single hair, I'm sticking to
 I was literally blown away when I saw what everyone else had made. 
 
 Before I continued scrolling down the page to view the designs crafted by IDEO designers I made an EXCELLENT decision, and immediately designed my Amabeia **before** continueing with the rest of the article, because I didn't want to 
+
+## Becoming a Meme
+
+I can't really think of any contexts where Amabie would be deemed meme-worthy. However there are people out there that have a much richer understanding of meme culture that might be able to do something with it. 
+
+### Amabie vs. Old Gregg
+
+Brainstorming meme ideas eventually led me to make to a different mythical creature that actually has a lot in common with Amabie: Old Gregg. If you've never seen or heard of Old Gregg, boy are you in for a treat. Old Gregg is a mythical sea creature that appears in Season 2, Episode 5 of **The Mighty Boosh**, a very trippy British comedy. The character is played by Noel Fielding: a British comedian and my favorite host co-host from the Great British Bake Off.
+
+
+![](/portfolio/amabie_files/noelfielding.JPG)
+
+![Old Gregg](/portfolio/amabie_files/oldgregg_closeup.jpg)
+
+
+The full episode from the show is only f you're watching Old Gregg for the first time, you will either love it, or you will stop watching after a few minutes. Fair warning though, Old Gregg is superweird. 
