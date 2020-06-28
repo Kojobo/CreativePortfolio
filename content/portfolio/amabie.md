@@ -49,7 +49,12 @@ This wasn't one of the requirements, but I knew I wanted to make the eye a main 
 
 ## The Scales
 
-My original intent was to make it look like Amabie's body was covered in scales, similar to a fish. I was unable to achieve the proper *layered* effect you see when looking at scales, and instead it kinda looks like Rainbow Ice Dippin Dots. Though techinically a fail, I really like how the body came out.
+My original intent was to make it look like Amabie's body was covered in scales, similar to a fish. I was unable to achieve the proper *layered* effect you see when looking at scales, and instead it kinda looks like Rainbow Ice Dippin Dots.
+
+![](/portfolio/amabie_files/Rainbow-Ice.png)
+![](/portfolio/amabie_files/amabie_body.jpg)
+
+Though techinically a fail, I really like how the body came out.
 
 First
 
