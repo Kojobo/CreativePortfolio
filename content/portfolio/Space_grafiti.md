@@ -5,7 +5,7 @@ date: '2020-06-23'
 slug: space-grafiti
 categories: []
 tags: []
-image: img/portfolio/Space_grafiti.jpg
+image: img/portfolio/spacegrafiti/Space_grafiti.jpg
 showonlyimage: yes
 ---
 ![space_graffiti_RainbowJupiter](/portfolio/Space_grafiti_files/Space_grafiti.jpg)
