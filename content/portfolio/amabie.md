@@ -11,7 +11,11 @@ showonlyimage: yes
 weight: 2
 ---
 
+<!--more-->
+
 I came across this 'challenge' while parousing through IDEO's blog (The Octopus) and thought it would be fun to design a supernatural entity with a few constraints tied in. 
+
+The design was made on a generation 1 iPad pro using the original Apple pencil and an app called Notability. 
 
 The article is about a mythical sea creature from Japanese folklore, named Amabie. The 'challenge' element of this story is to come up with an idea for what Amabie looks like, provided a list of three constraints. The rules are that your Amabie must include: 
 
@@ -30,9 +34,11 @@ Here is my design.
 
 I spent a long time debating the ins and outs of each of these parameters. 
 
+I went with a cool-color palette to emphasize Amabie's connection to the sea, and brightness of the palette is supposed to reinforce Amabie as a beacon of hope. I wanted it to look as if they were glow-in-the-dark, like an angler fish or something else from the deep. 
+
 ## A Beak
 
-I started with the beak. I used a cool-color palette because Amabie is a creature of the sea. I wanted the beak to be a bit *loud*, like a toucan's, so I used more of a neon/electric palette and decided on purple as the base color. I like how it turned out, but it also kinda reminds me of a Wild Berry Poptart. 
+I tried to emulate the shape of those long nosed masks people wore during the black plague, because Amabie is somehow tied to disease and public health. Instead of making it black, I wanted the beak to be a bit *loud*, like a toucan's, so I used more of a neon/electric palette and decided on purple as the base color. I like how it turned out, but it also kinda reminds me of a Wild Berry Poptart. 
 
 
 ![](/portfolio/amabie_files/amabie_beak.jpg)
@@ -43,20 +49,41 @@ I also considered squid beaks for a moment, instead of a bird beak, but those ar
 
 I think if I were to make Amabie again I might follow through with the squid beak and go with more of a cephalapod vibe. I could draw something similar to a squid, and include the other parameters without making the beak expressly visible, the way you might see a normal squid. I didn't think of that at first,but now that I'm thinking about it again while typing this post I'm having the realization that just because I have something doesn't mean that it *must* been seen or on display. I have a brain, but you can't see it; Amabie can have a beak, and we don't have to see it to believe it. 
 
-## The Eye
+### The Eye
+
+![](/portfolio/amabie_files/amabie_eye.jpg)
 
 This wasn't one of the requirements, but I knew I wanted to make the eye a main feature in the design because Amabie is able to see into the future. I used a fisheye as a reference, but instead of having giant black center, I made it absurdly large, and white to somewhat allude to Amabie's power to see the future. Also, white is usually seen more as the **good** color when compared to black, and Amabie sounds like a chill entity that promotes good rather than evil. The Iris is mainly blue, but its got a little bit of everything inside. The outer eye ring is the same shade of purple I wanted to emphasize in the beak; so those two elements somewhat reinforce each other. 
 
-## The Scales
+### The Scales
 
 My original intent was to make it look like Amabie's body was covered in scales, similar to a fish. I was unable to achieve the proper *layered* effect you see when looking at scales, and instead it kinda looks like Rainbow Ice Dippin Dots.
 
 ![](/portfolio/amabie_files/Rainbow-Ice.png)
 ![](/portfolio/amabie_files/amabie_body.jpg)
 
-Though techinically a fail, I really like how the body came out.
+Though techinically a fail, I really like how the body came out. I made the scales slightly transparent in attempt to make them blend a bit better. An unintended side effect was that Amabie became somewhat see-through, similar to a jellyfish. I didn't notice it until I changed the background color.
 
-First
+![](/portfolio/amabie_files/Amabie_bluebg.jpg)
+![](/portfolio/amabie_files/amabie_white.jpg)
+![](/portfolio/amabie_files/amabie_black.jpg)
+
+Things got real weird with this background..
+
+![](/portfolio/amabie_files/amabie_purple.jpg)
+
+## Fin-like Legs
+I used a beta fish as inspiration for the fin-like legs; they were initially much more flowy but I trimmed them down and made them resemble some sort of bell bottoms you'd see on Saturday Night Fever
+
+## Long Hair
+
+This was honestly the hard restraint for me. Hair isn't typically something you see when dealing with creatures of the sea, so I puzzled over this one for quite a bit. Eventually I went with a single strand of hair on the top of their head because it seemed funny to have this ghost-like entity with a giant hair poking up. 
+
+## Arms
+
+This was the final element I added because I wasnt sure how to make arms that didn't cover up what I had already drawn. To be honest, I almost didnt add arms because I didn't know what to make. I started with same general idea that I used to make the legs (ie betafish) but then tried to make them much more flowy. I was aiming for making something that looked somewhat like giant baggy sleeves, but I think they look more like a pair of Victoria Secret Wings. 
+
+Although I used the same color for the arms and the single hair, I'm sticking to the initial idea that the only hair Amabie has is on their head. It may look like hair, but I assure you, it isn't. 
 
 I was literally blown away when I saw what everyone else had made. 
 
