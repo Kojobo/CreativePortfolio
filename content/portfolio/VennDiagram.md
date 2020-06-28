@@ -14,6 +14,44 @@ Can you make a Venn Diagram with more than 3 circles? What about a shape other t
 
 <!--more-->
 
+The inspiration for this project came from my one of Strategy case studies in business school. Our professor began the case study by using a venn diagram to compare/contrast two subjects involved in the case we were reading. Eventually, a third party entered the mix so our professor drew an additional circle that overlapped with the two circles in the original diagram. Pretty soon a fourth party got involved but my professor said that we had to switch over to a different diagram because it was impossible to make a Venn Diagram using more than 3 circles. 
+
+### Challenging a Venn Diagram's 3-Circle Limit (2D)
+
+At first I didnt believe him, because I could picture 4 overlapping circles in my head and everything seemed to work fine. But when I actually drew the figure I realized that there were some group interactions that weren't present. More specifically, the top left circle and the bottom right circle in the figure below do not have a section where only those shapes share an interection. 
+
+![](/portfolio/VennDiagram_files/VennDiagram_3D_outline.png)
+
+Every intersection between these two groups also includes an intersection with one or both of the remaining two groups. 
+
+### Challenging a Venn Diagram's 3-Circle Limit (3D)
+
+My next thought was that maybe if you add another dimension and convert the diagram from 2D into 3D, then the 3-circle limitation would no longer apply. I started with the 2D drawing of a 4 circle venn diagram and created solids for the outermost sections. 
+
+![](/portfolio/VennDiagram_files/VennDiagram_3D_outer_1.png)
+
+Then I moved one level inward and created objects to represent these intersections.
+
+![](/portfolio/VennDiagram_files/Photo May 31, 8 23 02 PM.png) 
+
+This is what they look like without the outer level. 
+
+![](/portfolio/VennDiagram_files/VennDiagram_3D_3rdLayer_4.png)
+
+I did the same thing for the third level.
+
+![](/portfolio/VennDiagram_files/VennDiagram_3D_noMiddle.png) 
+
+![](/portfolio/VennDiagram_files/VennDiagram_3D_3rdLayer_1.png)
+
+And finally I created a solid for the middle intersection.
+
+![](/portfolio/VennDiagram_files/VennDiagram_3D_all.png)
+
+
+
+> 
+
 ![VennDiagram_1](/portfolio/2020-06-02-searching-for-a-new-venn-diagram_files/Photo Apr 02, 2 50 17 PM.png)
 
 ![VennDiagram_2](/portfolio/2020-06-02-searching-for-a-new-venn-diagram_files/Photo Feb 06, 9 46 00 AM (1).jpg)
