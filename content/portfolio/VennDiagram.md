@@ -65,11 +65,3 @@ And finally I created a solid for the middle intersection.
 ![](/portfolio/VennDiagram_files/VennDiagram_3D_center_2.png)
 
 
-
-> 
-
-![VennDiagram_1](/portfolio/2020-06-02-searching-for-a-new-venn-diagram_files/Photo Apr 02, 2 50 17 PM.png)
-
-![VennDiagram_2](/portfolio/2020-06-02-searching-for-a-new-venn-diagram_files/Photo Feb 06, 9 46 00 AM (1).jpg)
-
-![VennDiagram_3](/portfolio/2020-06-02-searching-for-a-new-venn-diagram_files/Photo Feb 06, 9 46 00 AM.jpg)

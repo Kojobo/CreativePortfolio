@@ -34,8 +34,8 @@ Instead of buying a BINGO roller I decided to make my own using an empty tide po
 
 The initial prototype worked but it wasn't very asthetically pleasing, so I covered it with cardstock and construction paper to make it pretty.
 
-#make this into a GIF
-{{<youtube pZ5tze70Yto >}}
+![](/portfolio/ThisOrThat_files/Animated GIF-downsized_large.gif)
+
 
 A shoebox was an ok base for the machine, but it didn't provide the support I was looking for in the foundation for the tumbler. And even after covering the base with black paper you could still tell that it was a shoebox. Eventually I designed and built an much better base. It had the necessary strength AND it looked pretty slick as well. 
 
