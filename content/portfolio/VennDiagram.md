@@ -24,6 +24,20 @@ At first I didnt believe him, because I could picture 4 overlapping circles in m
 
 Every intersection between these two groups also includes an intersection with one or both of the remaining two groups. 
 
+### Exploring alternative shapes. (2D)
+In addition to circles, I also gave triangles, rectangles, and squares a try. 
+
+![Triangles](/portfolio/VennDiagram_files/venn.jpg)
+![rectangles ](/portfolio/VennDiagram_files/venn_bars_hollowedSquare.png)
+![rectangles_continued](/portfolio/VennDiagram_files/venn_bars_closeuppng.png)
+![](/portfolio/VennDiagram_files/venn_bars_center.png)
+![](/portfolio/VennDiagram_files/venn_five_bars.png)
+![venn_squares_offset](/portfolio/VennDiagram_files/venn_squares_assembly.jpg)
+![venn_squares_offset_breakdown](/portfolio/VennDiagram_files/Photo May 31, 8 21 17 PM.png)
+![](/portfolio/VennDiagram_files/venn_squares_V2.png)
+
+
+
 ### Challenging a Venn Diagram's 3-Circle Limit (3D)
 
 My next thought was that maybe if you add another dimension and convert the diagram from 2D into 3D, then the 3-circle limitation would no longer apply. I started with the 2D drawing of a 4 circle venn diagram and created solids for the outermost sections. 
