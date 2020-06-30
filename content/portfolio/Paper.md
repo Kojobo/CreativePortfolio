@@ -7,6 +7,7 @@ categories: []
 tags: []
 image: img/portfolio/Paper/paper.jpg
 showonlyimage: yes
+weight: 1
 ---
 
 Some things I made with paper..
