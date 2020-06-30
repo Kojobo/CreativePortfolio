@@ -1,5 +1,5 @@
 ---
-title: Some stuff I made with Paper
+title: PAPER
 author: Kolton Bodnovich
 date: '2020-06-29'
 slug: some-stuff-i-made-with-paper
@@ -8,3 +8,9 @@ tags: []
 image: img/portfolio/Paper/paper.jpg
 showonlyimage: no
 ---
+
+Some things I made with paper..
+
+<!--more--> 
+
+![Paper_stuff](/portfolio/2020-06-29-some-stuff-i-made-with-paper_files/paper.jpg)
