@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/art/kipchoge_4.jpg
 showonlyimage: false
 title: Chicago Marathon 2019
-weight: 6
+weight: 5
 ---
 
 The Chicago Marathon's official instagram account picked my race sign as one of the best at the entire race.

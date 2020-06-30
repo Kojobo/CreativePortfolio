@@ -8,7 +8,7 @@ categories:
 tags: []
 image: img/portfolio/amabie_1.jpg
 showonlyimage: yes
-weight: 5
+weight: 6
 ---
 
     
