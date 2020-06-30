@@ -11,6 +11,8 @@ showonlyimage: yes
 weight: 2
 ---
 
+    
+
  <!--more-->
 
 I came across this 'challenge' while parousing through IDEO's blog (The Octopus) and thought it would be fun to design a supernatural entity with a few constraints tied in. 
