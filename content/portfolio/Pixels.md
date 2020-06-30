@@ -10,3 +10,4 @@ showonlyimage: no
 weight: 3
 ---
 
+![](/portfolio/Pixels_files/pixels.jpg)
