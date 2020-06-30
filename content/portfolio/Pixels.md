@@ -5,7 +5,7 @@ date: '2020-06-30'
 slug: pixels
 categories: []
 tags: []
-image: ''
+image: img/portfolio/pixels/pixels.jpg
 showonlyimage: no
 weight: 3
 ---
