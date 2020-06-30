@@ -17,7 +17,6 @@ This a backdrop we made for my cousin Dani's wedding back in September 2019. I c
 
 ![](/portfolio/Showers_files/Photo Sep 07, 6 28 36 PM (1).jpg)
 ![](/portfolio/Showers_files/Photo Sep 06, 10 10 59 PM.jpg)
-{{<https://youtu.be/w6oJRuYXZDY>}}
 ![](/portfolio/Showers_files/Photo Sep 06, 8 45 18 PM.jpg)
 ![](/portfolio/Showers_files/Photo Sep 06, 8 45 19 PM (2).jpg)
 
