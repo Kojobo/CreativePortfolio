@@ -7,7 +7,7 @@ categories: [Prototype]
 tags: []
 image: img/portfolio/This_or_That/This_or_that.jpg
 showonlyimage: no
-weight: 4
+weight: 7
 ---
 
 Got a bunch of stuff you need to do but aren't sure where to start? The This-OR-That-inator is here to help. 
