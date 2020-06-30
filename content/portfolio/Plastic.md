@@ -1,5 +1,5 @@
 ---
-title: Plastic
+title: Some things I made with plastic..
 author: Kolton Bodnovich
 date: '2020-06-30'
 slug: plastic
@@ -10,7 +10,7 @@ showonlyimage: no
 weight: 2
 ---
 
-Some things I made with plastic..
+
 
 <!--more--> 
 

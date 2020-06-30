@@ -1,5 +1,5 @@
 ---
-title: PAPER
+title: Some things I made with paper..
 author: Kolton Bodnovich
 date: '2020-06-29'
 slug: some-stuff-i-made-with-paper
@@ -10,7 +10,7 @@ showonlyimage: yes
 weight: 1
 ---
 
-Some things I made with paper..
+
 
 <!--more--> 
 
