@@ -1,5 +1,5 @@
 ---
-title: Wall Art inspired by MC Escher
+title: MC Escher
 author: Kolton Bodnovich
 date: '2020-06-04'
 slug: mc-escher
