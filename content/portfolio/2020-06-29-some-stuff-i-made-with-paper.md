@@ -6,7 +6,7 @@ slug: some-stuff-i-made-with-paper
 categories: []
 tags: []
 image: img/portfolio/Paper/paper.jpg
-showonlyimage: no
+showonlyimage: yes
 ---
 
 Some things I made with paper..
