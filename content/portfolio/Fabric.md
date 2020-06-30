@@ -11,4 +11,6 @@ weight: 4
 ---
 
 
+![fabric_cover photo](/portfolio/Fabric_files/fabric_cover.jpg)
+
 
