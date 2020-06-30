@@ -7,5 +7,6 @@ categories: []
 tags: []
 image: img/portfolio/Puzzle/puzzle_1.jpg
 showonlyimage: no
+draft: true
 ---
 
