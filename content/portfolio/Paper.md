@@ -15,3 +15,15 @@ Some things I made with paper..
 <!--more--> 
 
 ![Paper_stuff](/portfolio/2020-06-29-some-stuff-i-made-with-paper_files/paper.jpg)
+![My Mom and Me ](/portfolio/Paper_files/me.jpg)
+![MC Escher](/portfolio/Paper_files/escher.jpg)
+![CHI Marathon Signs](/portfolio/Paper_files/chicago.jpg)
+![Prism](/portfolio/Paper_files/prism.jpg)
+![Titanic](/portfolio/Paper_files/titanic.jpg)
+![Paper Snowflake Xmas tree](/portfolio/Paper_files/snowflakes.gif)
+![WelcomeHome](/portfolio/Paper_files/welcome.jpg)
+![30th Bday Card](/portfolio/Paper_files/thirty.jpg)
+![Canvas Revivals](/portfolio/Paper_files/canvas.jpg)
+![Alien Lego Face](/portfolio/Paper_files/alienrobot.png)
+
+
