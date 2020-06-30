@@ -6,7 +6,7 @@ slug: weddings-showers
 categories: []
 tags: []
 image: img/portfolio/Showers/DaniFlowerWall.jpg
-weight: 6
+weight: 9
 ---
 
 Some crafts my mom and I made together using cardstock, hot glue, and glitter..lots of glitter. 
