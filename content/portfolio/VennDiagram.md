@@ -42,6 +42,8 @@ In addition to circles, I also gave triangles, rectangles, and squares a try.
 
 My next thought was that maybe if you add another dimension and convert the diagram from 2D into 3D, then the 3-circle limitation would no longer apply. I started with the 2D drawing of a 4 circle venn diagram and created solids for the outermost sections. 
 
+![spin3D GIF](/portfolio/VennDiagram_files/venn_spin3d.gif) 
+
 ![](/portfolio/VennDiagram_files/VennDiagram_3D_outer_1.png)
 
 Then I moved one level inward and created objects to represent these intersections.

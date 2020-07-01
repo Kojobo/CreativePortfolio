@@ -9,6 +9,6 @@ image: img/portfolio/spacegrafitti/Space_grafiti.jpg
 showonlyimage: yes
 ---
 ![space_graffiti_RainbowJupiter](/portfolio/Space_grafiti_files/Space_grafiti.jpg)
-![zoom_pink](/portfolio/Space_grafiti_files/Space_grafiti_orangezoom.jpg)
+![pink](/portfolio/Space_grafiti_files/Space_grafiti_pinkzoom.jpg)
 ![zoom_orange](/portfolio/Space_grafiti_files/Space_grafiti_orangezoom.jpg)
 ![zoom_jupiter](/portfolio/Space_grafiti_files/Space_grafiti_jupiter.jpg)
