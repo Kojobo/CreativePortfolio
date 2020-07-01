@@ -39,8 +39,11 @@ The initial prototype worked but it wasn't very asthetically pleasing, so I cove
 
 A shoebox was an ok base for the machine, but it didn't provide the support I was looking for in the foundation for the tumbler. And even after covering the base with black paper you could still tell that it was a shoebox. Eventually I designed and built an much better base. It had the necessary strength AND it looked pretty slick as well. 
 
-#new pics and new GIF
-#possibly a link to youtube
+![tot_full](/portfolio/ThisOrThat_files/Photo Jun 05, 2 55 44 PM.jpg)
+![tot_side](/portfolio/ThisOrThat_files/Photo Jun 05, 2 56 21 PM.jpg)
+![tot_zoom](/portfolio/ThisOrThat_files/Photo Jun 05, 2 57 12 PM.jpg)
+![tot_smiley](/portfolio/ThisOrThat_files/Photo Jun 05, 2 59 37 PM.jpg)
+
 
 
 
