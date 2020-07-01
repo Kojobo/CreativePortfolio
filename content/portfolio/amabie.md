@@ -46,7 +46,7 @@ I tried to emulate the shape of those long nosed masks people wore during the bl
 
 ![](/portfolio/amabie_files/amabie_beak.jpg)
 
-I also like that the pattern gives the beak a more of a 3D vibe.
+I also like that the pattern gives the beak a more 3D look.
 
 I also considered squid beaks for a moment, instead of a bird beak, but those are mainly internal so you wouldn't be able to see it. 
 
@@ -67,13 +67,19 @@ My original intent was to make it look like Amabie's body was covered in scales,
 
 Though techinically a fail, I really like how the body came out. I made the scales slightly transparent in attempt to make them blend a bit better. An unintended side effect was that Amabie became somewhat see-through, similar to a jellyfish. I didn't notice it until I changed the background color.
 
+![4 by 2](/portfolio/amabie_files/Photo Jun 30, 9 48 13 AM.jpg)
+
 ![](/portfolio/amabie_files/Amabie_bluebg.jpg)
 ![](/portfolio/amabie_files/amabie_white.jpg)
 ![](/portfolio/amabie_files/amabie_black.jpg)
 
+![3 by 3](/portfolio/amabie_files/Photo Jun 30, 9 54 41 AM.jpg)
+
 Things got real weird with this background..
 
 ![](/portfolio/amabie_files/amabie_purple.jpg)
+
+![1 by 5](/portfolio/amabie_files/Photo Jun 30, 9 50 21 AM.jpg)
 
 ## Fin-like Legs
 I used a beta fish as inspiration for the *fin-like legs*; they were initially much more flowy but I trimmed them down and made them resemble some sort of bell bottoms you'd see on Saturday Night Fever.
