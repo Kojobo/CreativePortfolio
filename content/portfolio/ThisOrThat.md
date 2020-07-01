@@ -14,6 +14,8 @@ Got a bunch of stuff you need to do but aren't sure where to start? The This-OR-
 
 <!--more-->
 
+![tot_full](/portfolio/ThisOrThat_files/Photo Jun 05, 2 55 44 PM.jpg)
+
 Throughout grad school I regularly found myself in a situation where it felt like I had a million things to do but I couldn't figure out which thing to do first.
 
 > Example of typical scenario: 
@@ -41,6 +43,7 @@ A shoebox was an ok base for the machine, but it didn't provide the support I wa
 
 ![tot_full](/portfolio/ThisOrThat_files/Photo Jun 05, 2 55 44 PM.jpg)
 ![tot_side](/portfolio/ThisOrThat_files/Photo Jun 05, 2 56 21 PM.jpg)
+![tot_grid](/portfolio/ThisOrThat_files/Photo Jul 01, 7 07 34 PM.jpg)
 ![tot_zoom](/portfolio/ThisOrThat_files/Photo Jun 05, 2 57 12 PM.jpg)
 ![tot_smiley](/portfolio/ThisOrThat_files/Photo Jun 05, 2 59 37 PM.jpg)
 
