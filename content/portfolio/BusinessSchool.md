@@ -5,6 +5,7 @@ date: '2020-06-02'
 slug: things-i-made-for-business-school
 categories: []
 tags: []
+draft: true 
 ---
 
 While in business school at Ohio State, I made all sorts of diagrams and graphics for team projects and case competitions. 

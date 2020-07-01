@@ -6,6 +6,7 @@ slug: home-improvements
 categories: []
 tags: []
 image: img/portfolio/HomeImprovement.jpg
+draft: true
 ---
 
 Here are a few things I've created and tinkered with around the house. 
