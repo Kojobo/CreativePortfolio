@@ -95,15 +95,20 @@ About halfway into designing the legs, I realized that the prompt never stated t
 
 This was honestly the hardest restraint for me. Hair isn't typically something you see when dealing with creatures of the sea, so I puzzled over this one for quite a bit. Eventually I went with a single strand of hair on the top of their head because it seemed funny to have this ghost-like entity with a giant hair poking up. 
 
+![hair](/portfolio/amabie_files/Photo Jun 26, 6 49 56 PM.jpg)
+
 ## Arms
 
 This was the final element I added because I wasnt sure how to make arms that didn't cover up what I had already drawn. To be honest, I almost didnt add arms because I didn't know what to make. I started with the same general idea that I used to make the legs (ie betafish) but then tried to make them much more flowy. I was aiming for something that looked somewhat like giant baggy sleeves, but I think they look more like a pair of Victoria Secret Wings. 
 
+![](/portfolio/amabie_files/Photo Jun 26, 6 33 21 PM.png)
+
 Although I used the same color for the arms and the single hair on the head, I'm sticking to the initial idea that the only hair Amabie has is on their head. Whatever she's got for arms, it is not hair. It may look like hair, but I assure you, it isn't. 
 
-I was literally blown away when I saw what everyone else had made. 
+## Reaction to the designs in the article 
 
-Before I continued scrolling down the page to view the designs crafted by IDEO designers I made an EXCELLENT decision, and immediately designed my Amabeia **before** continueing with the rest of the article, because I didn't want to 
+I was literally blown away when I saw what everyone else had made. They are all so different, but they are also Amabie.
+
 
 ## Becoming a Meme
 
