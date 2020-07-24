@@ -9,13 +9,21 @@ image: img/portfolio/Sleep/sleep_sched.jpg
 showonlyimage: yes
 ---
 
-I took a Data Visualization class in Business school - this was the first assignment. 
+I took a Data Visualization class in Business school - our first assignment was to track our sleep schedule for 7 days and visualize it on a 6 x 4 notecard. 
 
 <!--more--> 
 
-The assignment was to record your sleep schedule for a week and create a graphic that visualizes that information on a 6x4 notecard. 
+*****
 
-My professor asked to keep my notecard, so I remade the visual in my sketchbook using the same dimensions. 
+This was my first assignment for my Data Visualization class in business school. Our task was to record our sleep schedule for a week and create a graphic that visualizes that information on a 6x4 notecard. The design needed to show the hours you were awake, and the hours you weren't. 
+
+| My professor asked to keep my notecard, so I remade the visual in my sketchbook using the same dimensions. 
+
+level one heading
+=======================
+
+level two 
+-----------------------------
 
 ![](/portfolio/Sleep_files/Sleep_final_maybe_smaller.jpg)
 

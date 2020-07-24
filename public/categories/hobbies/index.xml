@@ -6,10 +6,19 @@
     <description>Recent content in Hobbies on Kolton Bodnovich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/hobbies/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Interpretation of Amabie </title>
+      <link>/portfolio/amabie/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/amabie/</guid>
+      <description>&lt;p&gt;A mythical sea creature from Japanese Folklore&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Hobbies</title>
