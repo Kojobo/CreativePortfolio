@@ -21,7 +21,7 @@ After consulting my siblings and their significant others for sign ideas, I even
 
 This was my favorite because you could change the numbers to say whatever number of miles the runners had left.
 
-![](/portfolio/6w_Kipchoge_files/milesleft.jpg)
+![](/portfolio/6w_Kipchoge_files/chicago_E.gif)
 
 My brother and I came up with this idea because we weren't sure where we were going to be watching the race, and we didn't know how many miles we would be from the finish line. So I made a full set of numbers and added velro to the back of each, so we could update the sign if we decided to watch  from different points along the racecourse. 
 
