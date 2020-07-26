@@ -1,5 +1,5 @@
 ---
-title: The Hunt for a New Venn Diagram
+title: In Search of a New Venn Diagram
 author: Kolton Bodnovich
 date: '2020-06-02'
 slug: searching-for-a-new-venn-diagram
