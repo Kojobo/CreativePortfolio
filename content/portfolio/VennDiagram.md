@@ -2,7 +2,7 @@
 title: In Search of a New Venn Diagram
 author: Kolton Bodnovich
 date: '2020-06-02'
-slug: searching-for-a-new-venn-diagram
+slug: new-venn-diagram
 categories: []
 tags: []
 image: img/portfolio/VennDiagram/venn.jpg
