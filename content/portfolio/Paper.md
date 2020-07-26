@@ -15,6 +15,7 @@ weight: 1
 <!--more--> 
 
 ![Paper_stuff](/portfolio/2020-06-29-some-stuff-i-made-with-paper_files/paper.jpg)
+
 ![My Mom and Me ](/portfolio/Paper_files/me.jpg)
 ![MC Escher](/portfolio/Paper_files/escher.jpg)
 ![CHI Marathon Signs](/portfolio/Paper_files/chicago.jpg)
