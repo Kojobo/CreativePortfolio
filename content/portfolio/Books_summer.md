@@ -1,8 +1,8 @@
 ---
-title: Summer Readding 2020
+title: Summer Reading 2020
 author: Kolton Bodnovich
 date: '2020-07-01'
-slug: summer-readding-2020
+slug: summer-reading-2020
 categories: []
 tags: []
 image: img/portfolio/books/summer/summer_all.jpg
