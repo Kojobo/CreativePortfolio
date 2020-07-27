@@ -3,7 +3,7 @@ date: "2016-11-05T20:22:08+05:30"
 draft: false
 image: img/portfolio/AF/sixsigma.png
 showonlyimage: false
-title: Six Sigma with Abercrombie & Fitch 
+title: Six Sigma with Abercrombie & Fitch  
 ---
 
 A six sigma project I completed to earn my Green belt. 
