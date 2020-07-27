@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T19:53:42+05:30"
 draft: false
-image: img/portfolio/art/kipchoge_4.jpg
+image: img/portfolio/ChicagoMarathon/kipchoge_front.png
 showonlyimage: false
 title: Chicago Marathon 2019
 weight: 5
