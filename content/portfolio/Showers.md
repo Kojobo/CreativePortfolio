@@ -5,7 +5,7 @@ date: '2020-06-02'
 slug: weddings-showers
 categories: []
 tags: []
-image: img/portfolio/Showers/DaniFlowerWall.jpg
+image: img/portfolio/Showers/shower_me_mom_SM.jpg
 weight: 9
 ---
 
