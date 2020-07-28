@@ -25,7 +25,7 @@ I went through multiple designs before I had something that actually worked, the
 
 ![TikiTop practice prints ](/portfolio/3d-printing-a-tiki-torch-top_files/tiki_0thru8_sm.jpg)
 
-Karson took two tiki-tops with him when he returned to Chicago. A week later he asked if I could print tops for the rest of his tiki-torches, even the ones that still had their original tops. 
+Karson took three tiki-tops with him when he returned to Chicago. A week later he asked if I could print tops for the rest of his tiki-torches, even the ones that still had their original tops. 
 
 ![](/portfolio/3d-printing-a-tiki-torch-top_files/bluetikis_all_ordered.jpg)
 ![](/portfolio/3d-printing-a-tiki-torch-top_files/bluetiki.gif)
@@ -43,12 +43,16 @@ Another factor to consider was the time it took to actually print the piece - a 
 Tiki-Tops 1-4 were mainly attempts to find the correct diameter of the inside of lids so that it fit snuggly over the wick-holder. The tops needed to be snug around the base because that made it harder for them to get blown off.
 
 ##### Tiki 1
+###### Print Time: 97 minutes
+###### Plastic: 5.45 meters
 
 The design for *Tiki 1* was 43 mm tall: the same height as the original tiki-top. The outer diameter was 40 mm, and the inner diameter was 34 mm, which means the walls were 3 mm thick all the way around.
 
 *Tiki 1* was too wide, but only by a couple milimeters. It also didn't have anything where you could attach a string. 
 
 ##### Tiki 2
+###### Print Time: 64 minutes
+###### Plastic: 3.51 meters
 
 To get the design for *Tiki 2*, I went back to the drawing board (my iPad) and drew another cap from scratch. I started by making the *outer diameter* 34 milimeters because I knew that Tiki 1's *inner diameter* was 34 milimeters, which was too big for the inside, but it might be a good size for the outside. 
 
@@ -57,15 +61,44 @@ The inner diameter was 30.8 mm, which made the walls 1.6 mm thick. I chose this 
 while *Tiki 2's* walls were a nice thickness, there was a big seam up the side that I had to trim away. Worst of all, the piece was too narrow and didn't fit over the wick-base. 
 
 ##### Tiki 3
+###### Print Time: 45 minutes 
+###### Plastic: 1.95 meters
 
 *Tiki 3* was mostly an experiment to see how thin I could make the walls (because less plastic = less print time). I made the walls 1mm thick all around by setting the outder diameter at 30 mm, and the inner at 28 mm. I knew that this would be too small for the tiki torch; I just wanted to do a small *quick* print to see what would happen. 
 
-*Tiki 3* took somewhere around 15 minutes to print, which is an *absurdly* short print time in the 3D printing world. It had seams all around the outside, and considerable stringing on the inside. This was by far the worst print of the series, but it showed me how the shell and infill can interact when you try to print that thin using an average size (.4 mm) nozzle. 
+*Tiki 3* took somewhere around 45 minutes to print, which is an *absurdly* short print time in the 3D printing world. It had seams all around the outside, and considerable stringing on the inside. This was by far the worst print of the series, but it showed me how the shell and infill can interact when you try to print that thin using an average size (.4 mm) nozzle. 
 
 ##### Tiki 4
+###### Print Time: 102 minutes
+###### Plastic: 5.55 meters
+
+*Tiki 4* was first top to actually fit [^fit]. I finally discovered the *perfect* inner diameter (28.98 mm) that made the cap fit so snuggly I could invert the canister and it wouldn't fall off. It took longer to print than the previous 3 designs, and also used the most plastic. This was mainly due to the 5 mm thick walls and the high infill percentage. 
+
+
+### Tiki-Tops 5 through 8
+
+Now that I had figured out the correct dimensions to get a proper fit I needed to incorporate something into the design for attaching a string. I realized that the object could have any shape and would still fit properly as long as the inner diameter was set to 28.98 mm.
+
+![tiki5-8](/portfolio/3d-printing-a-tiki-torch-top_files/tiki_5_thru_8.jpg)
+
+##### Tiki 5
+###### Print Time: 87 minutes
+###### Plastic: 4.87 meters
+
+*Tiki 5's* design was made using the Loft feature in Shapr3D. It has a narrow 
+
+
+
+
+
+
+
+
+
 
 
 
 [^infill]: This refers to how *dense* the print will be. An infill of 0% will make an object that is hollow on the inside, while an infill of 100% will be solid. There is usually no reason to print with 100% infill because it requires considerably more plastic and time without improving the quality of the print. A common infill percentage in the 3DP community is 20%. 
 [^supports]: Slicing software can add support structures to help with prints that have obscure shapes/angles or need help adhering to the print bed. Including supports in your print may increase quality, but it also increases plastic. 
 [^slicing software]: I used Creality3D's slicing software for this project, but I have recently converted to using Ultimaker's *Cura* for all my slicing needs. 
+[^fit]: Wooo!
