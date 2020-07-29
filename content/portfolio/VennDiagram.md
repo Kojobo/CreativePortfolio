@@ -20,7 +20,7 @@ The inspiration for this project came from my one of Strategy case studies in bu
 
 At first I didnt believe him, because I could picture 4 overlapping circles in my head and everything seemed to work fine. But when I actually drew the figure I realized that there were some group interactions that weren't present. More specifically, the top left circle and the bottom right circle in the figure below do not have a section where only those shapes share an interection. 
 
-![](/portfolio/VennDiagram_files/VennDiagram_3D_outline.png)
+![VennDiagram_4circle](/portfolio/VennDiagram_files/venn_4circle.png "4 Circle Venn Diagram (2D)")
 
 Every intersection between these two groups also includes an intersection with one or both of the remaining two groups. 
 
