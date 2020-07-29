@@ -15,6 +15,7 @@ Can you make a Venn Diagram with more than 3 circles? What about a shape other t
 <!--more-->
 
 The inspiration for this project came from my one of Strategy case studies in business school. Our professor began the case study by using a venn diagram to compare/contrast two subjects involved in the case we were reading. Eventually, a third party entered the mix so our professor drew an additional circle that overlapped with the two circles in the original diagram. Pretty soon a fourth party got involved but my professor said that we had to switch over to a different diagram because it was impossible to make a Venn Diagram using more than 3 circles. 
+*********
 
 ### Challenging a Venn Diagram's 3-Circle Limit (2D)
 
@@ -24,19 +25,19 @@ At first I didnt believe him, because I could picture 4 overlapping circles in m
 
 Every intersection between these two groups also includes an intersection with one or both of the remaining two groups. 
 
+*******
+
 ### Exploring alternative shapes. (2D)
+
 In addition to circles, I also gave triangles, rectangles, and squares a try. 
 
-![Triangles](/portfolio/VennDiagram_files/venn.jpg)
-![rectangles ](/portfolio/VennDiagram_files/venn_bars_hollowedSquare.png)
-![rectangles_continued](/portfolio/VennDiagram_files/venn_bars_closeuppng.png)
-![](/portfolio/VennDiagram_files/venn_bars_center.png)
-![](/portfolio/VennDiagram_files/venn_five_bars.png)
-![venn_squares_offset](/portfolio/VennDiagram_files/venn_squares_assembly.jpg)
-![venn_squares_offset_breakdown](/portfolio/VennDiagram_files/Photo May 31, 8 21 17 PM.png)
-![](/portfolio/VennDiagram_files/venn_squares_V2.png)
+![VennTriangles](/portfolio/VennDiagram_files/venn_triangle_table.jpg)
+![Venn_bars](/portfolio/VennDiagram_files/venn_bars_square_star.jpg)
+![VennStarBar](/portfolio/VennDiagram_files/venn_bars_starred.jpg)
+![Venn_squares_table](/portfolio/VennDiagram_files/venn_squares_table.jpg)
+![venn_squares_V2](/portfolio/VennDiagram_files/venn_squares_V2.jpg)
 
-
+*********
 
 ### Challenging a Venn Diagram's 3-Circle Limit (3D)
 
