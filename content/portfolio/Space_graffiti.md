@@ -1,5 +1,5 @@
 ---
-title: Space Grafiti
+title: Space Graffiti
 author: Kolton Bodnovich
 date: '2020-06-23'
 slug: space-grafiti
@@ -8,6 +8,9 @@ tags: []
 image: img/portfolio/spacegrafitti/Space_grafiti.jpg
 showonlyimage: yes
 ---
+
+<!--more-->
+
 This is a project I did with my friend Jo. We saw a youtube video of someone using this particular spray paint technique for making galaxies and other space themed stuff. Our only constraint was that we had to use whatever leftover paint we had in our garage. We did end up running to home depot to buy some black paint, and maybe one or two more colors, but enerything else came from the garage. 
 
 Johanna and I made dozens of planets and probably went through propbably 25 feet of newspaper-paper while making them. (we used newspapers as our canvas - my family still got the Plain Dealer delievered back then) Sadly, many of our creations are no longer around; they were either thrown away or somehow destroyed. Honestly, we tossed many of them ourselves because they were practice planets.
