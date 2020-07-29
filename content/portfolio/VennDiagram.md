@@ -45,7 +45,7 @@ In addition to circles, I also gave triangles, rectangles, and squares a try.
 ![Venn_bars](/portfolio/VennDiagram_files/venn_bars_square_star.jpg)*4 Rectangle Venn Diagram: Square and Star Layout*
 ![VennStarBar](/portfolio/VennDiagram_files/venn_bars_starred.jpg)*Analyzing the Interactions at the Center of the Star Layout* 
 ![Venn_squares_table](/portfolio/VennDiagram_files/venn_squares_table.jpg)*4 Square Venn Diagram: Random Layout*
-![venn_squares_V2](/portfolio/VennDiagram_files/venn_squares_V2.jpg)*4 Square Venn Diagram: Ordered Layout*
+![Venn Squares Grid Layout](/portfolio/VennDiagram_files/venn_squares_ordered.jpg)*4 Square Venn Diagram: Ordered Layout*
 
 *********
 

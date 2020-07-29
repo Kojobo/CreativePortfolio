@@ -24,7 +24,7 @@ Throughout grad school I regularly found myself in a situation where it felt lik
 
 I would put considerable time and effort into ranking the items on my to-do list in order of most-ugent to least-urgent. Many times I was unable to come to a reasonable conclusion and wound up doing nothing on my list instead.
 
-One day I decided to take my handwritten to do list and cut it into strips so that each task was on its own strip. I folded the slips, put them in a bowl, shook the bowl around a bit, then picked one of the slips out. Whatever task I picked was the task I had to work on. I used this method for most of my four years in grad school, though I didn't always use a bowl (any hat or container will work). 
+I decided to take my handwritten to do list and cut it into strips so that each task was on its own strip. I folded the slips, put them in a bowl, shook the bowl around a bit, then picked one of the slips out. Whatever task I picked was the task I had to work on. I used this method for most of my four years in graduate school, though I didn't always use a bowl (any hat or container will do). 
 
 I had to use this system while visiting my brother in Chicago. I asked him if he had some scissors and a hat. He asked why. I explained what I was about to do. He thought it was hilarious. He said he could definitely use the process to help him with all of his work assignments (He is a 'Level 3 CFA Candidate' - aka he fucks with finance real hard and most of his work is done using excel). He was a big fan of this system from the get-go; he loved picking out the slips, even when all of the tasks were for me to complete. 
 
