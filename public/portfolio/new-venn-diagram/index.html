@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>In Search of a New Venn Diagram</title>
+<meta name="description" content="Describe your website">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
+<link rel="stylesheet" href="/css/font-awesome.min.css">
+<link rel="stylesheet" href="/css/owl.carousel.css">
+<link rel="stylesheet" href="/css/owl.theme.css">
+
+
+  <link href="/css/style.blue.css" rel="stylesheet" id="theme-stylesheet">
+
+ 
+
+  
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+
+<link href="/css/custom.css" rel="stylesheet">
+<link rel="shortcut icon" href="/img/favicon.png">
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-160007751-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+</head>
+<body>
+  <div id="all">
+      <div class="container-fluid">
+          <div class="row row-offcanvas row-offcanvas-left">
+              <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+  <div class="sidebar-content">
+    <h1 class="sidebar-heading"><a href="/">Kolton Bodnovich</a></h1>
+    
+      <p class="sidebar-p">I am a JD/MBA with programming skills and experience in healthcare.</p>
+    
+      <p class="sidebar-p">Currently based in Cleveland, Ohio .</p>
+    
+    <ul class="sidebar-menu">
+      
+        <li><a href="/portfolio/">Home</a></li>
+      
+        <li><a href="/about/">About</a></li>
+      
+        <li><a href="/contact/">Get in touch</a></li>
+      
+    </ul>
+    <p class="social">
+  
+  
+  
+  
+  
+  <a href="mailto:Kjbodnovich@gmail.com" data-animate-hover="pulse" class="email">
+    <i class="fa fa-envelope"></i>
+  </a>
+  
+  
+  <a href="https://www.linkedin.com/in/koltonbodnovich/" data-animate-hover="pulse" class="external">
+    <i class="fa fa-linkedin"></i>
+  </a>
+  
+  
+  
+  <a href="https://github.com/Kojobo" data-animate-hover="pulse" class="external">
+    <i class="fa fa-github"></i>
+  </a>
+  
+  
+  
+</p>
+
+
+    <div class="copyright">
+      <p class="credit">
+        
+          &copy;2020 Kolton Bodnovich |
+        
+        Template by <a href="https://bootstrapious.com/free-templates" class="external">Bootstrapious.com</a>
+
+&amp; ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>
+
+      </p>
+    </div>
+  </div>
+</div>
+
+              
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  <div class="small-navbar visible-xs">
+  <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
+  <h1 class="small-navbar-heading"><a href="/">Kolton Bodnovich</a></h1>
+</div>
+
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>In Search of a New Venn Diagram</h1>
+         <p>Can you make a Venn Diagram with more than 3 circles? What about a shape other than a circle?</p>
+<p>The inspiration for this project came from my one of Strategy case studies in business school. Our professor began the case study by using a venn diagram to compare/contrast two subjects involved in the case we were reading. Eventually, a third party entered the mix so our professor drew an additional circle that overlapped with the two circles in the original diagram. Pretty soon a fourth party got involved but my professor said that we had to switch over to a different diagram because it was impossible to make a Venn Diagram using more than 3 circles.</p>
+<hr>
+<h3 id="challenging-a-venn-diagrams-3-circle-limit-2d">Challenging a Venn Diagram's 3-Circle Limit (2D)</h3>
+<p>At first I didnt believe him, because I could picture 4 overlapping circles in my head and everything seemed to work fine. But when I actually drew the figure I realized that there were some group interactions that weren't present. More specifically, the top left circle and the bottom right circle in the figure below do not have a section where only those shapes share an interection.</p>
+<p><img src="/portfolio/VennDiagram_files/venn_4circle.png" alt="VennDiagram_4circle"><em>4 Circle Venn Diagram: 2D</em></p>
+<p><img src="/portfolio/VennDiagram_files/venn_expl_fail.png" alt="Blue and Green Intersection"><em>Shaded: The intersection of Blue and Green</em></p>
+<p><img src="/portfolio/VennDiagram_files/venn_expl_fail_yellow.png" alt="Blue Green and Yellow"><em>Yellow also intersects with Blue and Green in this region</em></p>
+<p><img src="/portfolio/VennDiagram_files/venn_expl_fail_red.png" alt="Blue Green and Red"><em>Red intersects with Blue and Green as well, leaving no space in the model for and intersection of just Blue and Green</em></p>
+<p>Every intersection between these two groups also includes an intersection with one or both of the remaining two groups.</p>
+<hr>
+<p>I could have stopped after confirming my professor's claim that a 4 circle diagram didn't work, but I was curious to see whether this applied to other shapes as well. Venn diagrams are commonly used when studying probability, and I thought it would be interesting find an alternate model that provided a way to study probability from a different perspective.</p>
+<h3 id="exploring-alternative-shapes-2d">Exploring alternative shapes. (2D)</h3>
+<p>In addition to circles, I also gave triangles, rectangles, and squares a try.</p>
+<p><img src="/portfolio/VennDiagram_files/venn_triangle_table.jpg" alt="VennTriangles"><em>4 Triangle Venn Diagram</em>
+<img src="/portfolio/VennDiagram_files/venn_bars_square_star.jpg" alt="Venn_bars"><em>4 Rectangle Venn Diagram: Square and Star Layout</em>
+<img src="/portfolio/VennDiagram_files/venn_bars_starred.jpg" alt="VennStarBar"><em>Analyzing the Interactions at the Center of the Star Layout</em> 
+<img src="/portfolio/VennDiagram_files/venn_squares_table.jpg" alt="Venn_squares_table"><em>4 Square Venn Diagram: Random Layout</em>
+<img src="/portfolio/VennDiagram_files/venn_squares_V2.jpg" alt="venn_squares_V2"><em>4 Square Venn Diagram: Ordered Layout</em></p>
+<hr>
+<h3 id="challenging-a-venn-diagrams-3-circle-limit-3d">Challenging a Venn Diagram's 3-Circle Limit (3D)</h3>
+<p>My next thought was that maybe if you add another dimension and convert the diagram from 2D into 3D, then the 3-circle limitation would no longer apply. I started with the 2D drawing of a 4 circle venn diagram and created solids for the outermost sections.</p>
+<p><img src="/portfolio/VennDiagram_files/venn_spin3d.gif" alt="spin3D GIF"><em>4 Circle Venn Diagram: 3D</em></p>
+<p><img src="/portfolio/VennDiagram_files/venn_outer_level.png" alt="VennDiagram 4 Circle 3D - Outer Layer"><em>Outermost sections: No overlap between colors</em></p>
+<p>Then I moved one level inward and created objects to represent these intersections. At this level, each region is shared between two of the four original circles.</p>
+<p><img src="/portfolio/VennDiagram_files/venn_3D_levels1_2.png" alt="VennDiagram 3D 1st and 2nd levels"><em>1st and 2nd Levels</em></p>
+<p>This is what they look like without the outer level. Each of these <em>shield-shaped</em> objects has 2 convex faces and 2 concave faces. The convex faces indicate the colors of the circles that are present in that area, while the concave faces indicate the other two colors that are not present in that section.</p>
+<p><img src="/portfolio/VennDiagram_files/venn_3D_2nd_layer.png" alt="VennDiagram 3D 2nd Layer only"><em>2nd Level</em></p>
+<p>I did the same thing for the third level.</p>
+<p><img src="/portfolio/VennDiagram_files/venn_3d_levels_1thru3.png" alt="VennDiagram 3D Levels 1-3"><em>1st, 2nd, and 3rd level</em></p>
+<p>Each of these objects represents the intersection of 3 of the 4 original circles.</p>
+<p><img src="/portfolio/VennDiagram_files/venn_3d_3rd_level.png" alt="VennDiagram 3D 3rd Level"><em>Only the 3rd Level</em></p>
+<p>And finally I created a solid for the middle intersection.</p>
+<p><img src="/portfolio/VennDiagram_files/venn_3d_all_levels.png" alt="VennDiagram 3D All Levels"></p>
+<p>This central region represents the intersection of all 4 regions.</p>
+<p><img src="/portfolio/VennDiagram_files/venn_3d_center.png" alt="VennDiagram 3D Centersection"><em>Central Intersection of All Four Regions</em></p>
+<p>The 3D version of the Venn Diagram failed for the same reason the 2D version did: it lacked a region where the two circles sitting opposite one another had an intersection without the other two circles also being present.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>It appears my professor was correct: you can't create a Venn Diagram using more than 3 circles. Additionally, a Venn diagram cannot be created using a shape other than a circle: in both 2D and 3D.</p>
+<p>A potential solution might be to try making a 3D venn diagram using spheres rather than cylinders. This may provide the proper dimensions for all 4 regions to interact and have their intersections represented properly, like a traditional Venn Diagram.</p>
+<p><img src="/portfolio/VennDiagram_files/venn_spin3d.gif" alt=""></p>
+         
+      </div>
+    </div>
+  </div>
+</div>
+
+          </div>
+      </div>
+  </div>
+  <script src="/js/jquery.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/jquery.cookie.js"> </script>
+<script src="/js/ekko-lightbox.js"></script>
+<script src="/js/jquery.scrollTo.min.js"></script>
+<script src="/js/masonry.pkgd.min.js"></script>
+<script src="/js/imagesloaded.pkgd.min.js"></script>
+<script src="/js/owl.carousel.min.js"></script>
+<script src="/js/front.js"></script>
+
+
+
+</body>
+</html>

@@ -6,7 +6,7 @@
     <description>Recent content in Portfolios on Kolton Bodnovich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -49,10 +49,10 @@
     
     <item>
       <title>Chicago Marathon 2019</title>
-      <link>/portfolio/6w_kipchoge/</link>
+      <link>/portfolio/kipchogesign/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>/portfolio/6w_kipchoge/</guid>
+      <guid>/portfolio/kipchogesign/</guid>
       <description>&lt;p&gt;The Chicago Marathon&#39;s official instagram account picked my race sign as one of the best at the entire race.&lt;/p&gt;</description>
     </item>
     
@@ -75,11 +75,11 @@
     </item>
     
     <item>
-      <title>The Hunt for a New Venn Diagram</title>
-      <link>/portfolio/searching-for-a-new-venn-diagram/</link>
+      <title>In Search of a New Venn Diagram</title>
+      <link>/portfolio/new-venn-diagram/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/searching-for-a-new-venn-diagram/</guid>
+      <guid>/portfolio/new-venn-diagram/</guid>
       <description>&lt;p&gt;Can you make a Venn Diagram with more than 3 circles? What about a shape other than a circle?&lt;/p&gt;</description>
     </item>
     
@@ -94,19 +94,28 @@
     
     <item>
       <title>Health Care Analytics</title>
-      <link>/portfolio/9w_hc_analytics/</link>
+      <link>/portfolio/hc_analytics/</link>
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
       
-      <guid>/portfolio/9w_hc_analytics/</guid>
+      <guid>/portfolio/hc_analytics/</guid>
       <description>&lt;p&gt;In this MBA course I was able to apply my newly acquired programming skills to a variety of analytical challenges based in the health care industry.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Summer Readding 2020</title>
-      <link>/portfolio/summer-readding-2020/</link>
+      <title>3D Printing a Tiki Torch Top</title>
+      <link>/portfolio/3d-printing-a-tiki-torch-top/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/3d-printing-a-tiki-torch-top/</guid>
+      <description>&lt;p&gt;Designing and printing a replacement lid for my brother&#39;s tiki torches using my iPad and Ender 3 Pro.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Summer Reading 2020</title>
+      <link>/portfolio/summer-reading-2020/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/summer-readding-2020/</guid>
+      <guid>/portfolio/summer-reading-2020/</guid>
       <description>&lt;p&gt;A growing list of books I&#39;ve been reading this summer.&lt;/p&gt;</description>
     </item>
     
@@ -120,12 +129,12 @@
     </item>
     
     <item>
-      <title>Space Grafiti</title>
+      <title>Space Graffiti</title>
       <link>/portfolio/space-grafiti/</link>
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/portfolio/space-grafiti/</guid>
-      <description>This is a project I did with my friend Jo. We saw a youtube video of someone using this particular spray paint technique for making galaxies and other space themed stuff. Our only constraint was that we had to use whatever leftover paint we had in our garage. We did end up running to home depot to buy some black paint, and maybe one or two more colors, but enerything else came from the garage.</description>
+      <description></description>
     </item>
     
     <item>
@@ -239,15 +248,6 @@ Original Post I wanted to make something similar using paper. Initially I used a
     </item>
     
     <item>
-      <title>Data Viz Project: Bankruptcy Report Revamp</title>
-      <link>/portfolio/2020-04-06-attempt/</link>
-      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/2020-04-06-attempt/</guid>
-      <description>Bar Charts## Warning: Missing column names filled in: &amp;#39;X1&amp;#39; [1]## Warning: Missing column names filled in: &amp;#39;X1&amp;#39; [1]Maps</description>
-    </item>
-    
-    <item>
       <title>Hobbies</title>
       <link>/portfolio/wallart-1/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
@@ -262,55 +262,55 @@ Wedding Backdrop In September 2019, my mom and I made this backdrop for a family
     
     <item>
       <title>Six Sigma with Abercrombie &amp; Fitch</title>
-      <link>/portfolio/2w_af_sixsig/</link>
+      <link>/portfolio/sixsigma/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>/portfolio/2w_af_sixsig/</guid>
+      <guid>/portfolio/sixsigma/</guid>
       <description>&lt;p&gt;A six sigma project I completed to earn my Green belt.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Anthem Inc.</title>
-      <link>/portfolio/8w_anthem/</link>
+      <link>/portfolio/anthem/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
-      <guid>/portfolio/8w_anthem/</guid>
+      <guid>/portfolio/anthem/</guid>
       <description>&lt;p&gt;Some projects from when I interned as an Internal Consultant in Denver with Anthem&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A Modern Take on Mergers &amp; Acquisitions</title>
-      <link>/portfolio/7w_ma/</link>
+      <link>/portfolio/tax_ma/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/7w_ma/</guid>
+      <guid>/portfolio/tax_ma/</guid>
       <description>&lt;p&gt;These are some interactive graphics that depict some basic M&amp;amp;A transactions.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>AB InBev Sustainability Challenge</title>
-      <link>/portfolio/3w_ab_inbev/</link>
+      <link>/portfolio/ab_inbev/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>/portfolio/3w_ab_inbev/</guid>
+      <guid>/portfolio/ab_inbev/</guid>
       <description>&lt;p&gt;My team made it to the final round of Anheuser-Busch InBev&#39;s case competition for first-year MBA students.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Bankruptcy Report Remake</title>
-      <link>/portfolio/1w_bankruptcy/</link>
+      <link>/portfolio/bankruptcy_report_og/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/portfolio/1w_bankruptcy/</guid>
+      <guid>/portfolio/bankruptcy_report_og/</guid>
       <description>&lt;p&gt;Data Viz Project: Bankruptcy Report Revamp&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>RGB</title>
-      <link>/portfolio/5w_rgb/</link>
+      <title>RGB Reference</title>
+      <link>/portfolio/rgb_ref/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>/portfolio/5w_rgb/</guid>
+      <guid>/portfolio/rgb_ref/</guid>
       <description>&lt;p&gt;This is a graphic I made to help me learn RGB color codes.&lt;/p&gt;</description>
     </item>
     
