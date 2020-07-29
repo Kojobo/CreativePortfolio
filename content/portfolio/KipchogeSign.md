@@ -25,7 +25,7 @@ This was my favorite because you could change the numbers to say whatever number
 
 My brother and I came up with this idea because we weren't sure where we were going to be watching the race, and we didn't know how many miles we would be from the finish line. So I made a full set of numbers and added velro to the back of each, so we could update the sign if we decided to watch  from different points along the racecourse. 
 
-![](/portfolio/6w_Kipchoge_files/cool_like_kip.jpg)
+![](/portfolio/6w_Kipchoge_files/cool_like_kip.jpg)![second sign](/portfolio/KipchogeSign_files/keep_it_up.jpg)
 
 I made this design because Eliud Kipchoge is my brother's all-time favorite runner. Kipchoge usually participates in the Chicago Marathon, but this year he was unable to because he was over in Europe attempting to be the first human to ever complete a marathon in under two hours. I was aware of Kipchoge's previous attempt at breaking this record, and I knew that he was planning on making another. However, I had no idea that this world record attempt was scheduled to take place the same weekend as the Chicago Marathon. What's even crazier of a coincidence is that because he was doing his race over in Europe the time change made it so he successfully completed his run at like 2AM the night before the Chicago Marathon. So bascially everyone in the US woke up to news of Kipchoge making history, and it was all the running world was talking about. This unbelievable coincindence made my sign especially popular that day - people were walking up to me and asking if they could take pictures while holding the sign. 
 
