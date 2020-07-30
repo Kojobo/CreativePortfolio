@@ -9,7 +9,7 @@ image: img/portfolio/Escher.jpg
 showonlyimage: yes
 ---
 
-![escher_paper_blackbb](/portfolio/Escher_files/Wall_art_prism.jpg)
+![MC Escher Wall Art](/portfolio/Escher_files/Wall_art_prism.jpg)
 
 The inspiration for this piece came from a post I saw on instagram. I went through many iterations until settling on the look of the final product. 
 

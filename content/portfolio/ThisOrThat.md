@@ -46,8 +46,6 @@ The shoebox was an ok base for the machine, but it didn't provide the support I 
 
 ![tot_side](/portfolio/ThisOrThat_files/Photo Jun 05, 2 56 21 PM.jpg)
 
-![tot_grid](/portfolio/ThisOrThat_files/Photo Jul 01, 7 07 34 PM.jpg)
-
 ![tot_zoom](/portfolio/ThisOrThat_files/Photo Jun 05, 2 57 12 PM.jpg)
 
 ![tot_smiley](/portfolio/ThisOrThat_files/Photo Jun 05, 2 59 37 PM.jpg)
