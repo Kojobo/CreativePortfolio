@@ -29,9 +29,9 @@ My Mom and I teamed up to make this photo backdrop for my cousin's wedding. Take
 
 ******
 
-### MC Escher themed Wall Decor 
+### [MC Escher Inspired Art][Escher]
 
-[![MC Escher](/portfolio/Paper_files/escher.jpg)*MC Escher Inspired Art*][https://koltonbodnovichportfolio.netlify.app/portfolio/mc-escher/]
+![MC Escher](/portfolio/Paper_files/escher.jpg)*MC Escher Inspired Art*
 
 ******
 
@@ -63,4 +63,5 @@ there wasm't enough space in my apartment for a *traditional* tree, so I improvi
 ![Canvas Revivals](/portfolio/Paper_files/canvas.jpg)
 ![Alien Lego Face](/portfolio/Paper_files/alienrobot.png)
 
+[Escher]: https://koltonbodnovichportfolio.netlify.app/portfolio/mc-escher/
 
