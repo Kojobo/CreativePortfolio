@@ -16,17 +16,17 @@ A mythical sea creature from Japanese Folklore
 
  <!--more-->
 
-I came across this 'challenge' while parousing through IDEO's blog (The Octopus) and thought it would be fun to design a supernatural entity with a few constraints tied in. 
+I came across this 'challenge' while parousing through IDEO's blog (The Octopus) and thought it would be fun to design a supernatural entity with a few constraints tied in [^app]. 
 
-The design was made on a generation 1 iPad pro using the original Apple pencil and an app called Notability. 
+
 
 The IDEO article is about a mythical sea creature from Japanese folklore, named Amabie. The 'challenge' element of this story is to come up with an idea for what Amabie looks like, provided a list of three constraints. The rules are that your Amabie must include: 
 
-1. A Beak
-2. Long-Hair
-3. Fin-like Wings
-
-*"The rest is up to the artist.."* 
+>1. A Beak
+>2. Long-Hair
+>3. Fin-like Wings
+>
+>*"The rest is up to the artist.."* 
 
 After reading the instructions, I immediately started working on my Amabie design; I waited to read the rest of the article until *after* I finished my design, because I thought that the designers creations might unintentionally influence my Amabie's design. 
 
@@ -110,8 +110,9 @@ I can't really think of any contexts where Amabie would be deemed meme-worthy. H
 
 Brainstorming meme ideas eventually led me to thinking about a different mythical sea creature with long hair: Old Gregg. If you've never seen or heard of Old Gregg, boy are you in for a treat. Old Gregg is a mythical sea creature that appears in Season 2, Episode 5 of **The Mighty Boosh**, a very trippy British TV comedy. The character is played by Noel Fielding, a popular British comedian and my favorite co-host on the Great British Bake Off.
 
-
 ![](/portfolio/amabie_files/noelfielding.JPG)
+
+Below are handful of images, clips and memes of Old Gregg to give you an idea of the level of absurdity in this particular episode of The Mighty Boosch. 
 
 ![Old Gregg](/portfolio/amabie_files/oldgregg_closeup.jpg)
 
@@ -120,3 +121,6 @@ Brainstorming meme ideas eventually led me to thinking about a different mythica
 ![Fuzzy Little Man Peach](/portfolio/amabie_files/oldgregg_fuzzylittlemanpeach.jpg)
 
 ![Downstairs Mixup](/portfolio/amabie_files/oldgregg_mangina.gif)
+
+
+[^app]: The design was made on a generation 1 iPad pro using the original Apple pencil and an app called Notability. 
