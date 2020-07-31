@@ -29,12 +29,11 @@ My brother and I came up with this idea because we weren't sure where we were go
 
 I made this design because Eliud Kipchoge is my brother's all-time favorite runner. Kipchoge usually participates in the Chicago Marathon, but this year he was unable to because he was over in Europe attempting to be the first human to ever complete a marathon in under two hours. I was aware of Kipchoge's previous attempt at breaking this record, and I knew that he was planning on making another. However, I had no idea that this world record attempt was scheduled to take place the same weekend as the Chicago Marathon. What's even crazier of a coincidence is that because he was doing his race over in Europe the time change made it so he successfully completed his run at like 2AM the night before the Chicago Marathon. So bascially everyone in the US woke up to news of Kipchoge making history, and it was all the running world was talking about. This unbelievable coincindence made my sign especially popular that day - people were walking up to me and asking if they could take pictures while holding the sign. 
 
-Here is a picture of me holding the sign in China Town. (it was very early)
+Here is a picture of me holding the sign in China Town.
 
-![](/portfolio/6w_Kipchoge_files/Photo Feb 18, 2 31 24 PM.jpg)
+![Cool Like Kipchoge Race Sign ](/portfolio/KipchogeSign_files/Photo Feb 18, 2 31 24 PM.jpg)*It was very early..* 
 
-Here is a picture of me and other members of my family holding up the signs I made. 
-![](/portfolio/6w_Kipchoge_files/me_w_fam.JPG)
+![](/portfolio/6w_Kipchoge_files/me_w_fam.JPG)*My family and me - anxiously waiting for Karter to run by*
 
 A couple weeks later, the official instagram account for the Chicago Marathon posted a story requesting submissions for the best signs from the race that year. I'm not sure who sent them a picture of my Kipchoge sign, but I was surprised and delighted when I saw that it was on their story. (though I wish they hadn't blacked me out)
 

@@ -26,7 +26,7 @@ The IDEO article is about a mythical sea creature from Japanese folklore, named 
 2. Long-Hair
 3. Fin-like Wings
 
-> "The rest is up to the artist" 
+*"The rest is up to the artist.."* 
 
 After reading the instructions, I immediately started working on my Amabie design; I waited to read the rest of the article until *after* I finished my design, because I thought that the designers creations might unintentionally influence my Amabie's design. 
 
@@ -62,24 +62,16 @@ This wasn't one of the requirements, but I knew I wanted to make the eye a main 
 
 My original intent was to make it look like Amabie's body was covered in scales, similar to a fish. I was unable to achieve the proper *layered* effect you see when looking at scales, and instead it kinda looks like Rainbow Ice Dippin Dots.
 
-![](/portfolio/amabie_files/Rainbow-Ice.png)
 ![](/portfolio/amabie_files/amabie_body.jpg)
+![](/portfolio/amabie_files/Rainbow-Ice.png)
 
 Though techinically a fail, I really like how the body came out. I made the scales slightly transparent in attempt to make them blend a bit better. An unintended side effect was that Amabie became somewhat see-through, similar to a jellyfish. I didn't notice it until I changed the background color.
 
 ![4 by 2](/portfolio/amabie_files/Photo Jun 30, 9 48 13 AM.jpg)
 
-![](/portfolio/amabie_files/Amabie_bluebg.jpg)
-![](/portfolio/amabie_files/amabie_white.jpg)
-![](/portfolio/amabie_files/amabie_black.jpg)
-
 ![3 by 3](/portfolio/amabie_files/Photo Jun 30, 9 54 41 AM.jpg)
 
-Things got real weird with this background..
-
-![](/portfolio/amabie_files/amabie_purple.jpg)
-
-![1 by 5](/portfolio/amabie_files/Photo Jun 30, 9 50 21 AM.jpg)
+![](/portfolio/amabie_files/amabie_purple.jpg)*Things got real weird with this background..*
 
 ## Fin-like Legs
 I used a beta fish as inspiration for the *fin-like legs*; they were initially much more flowy but I trimmed them down and made them resemble some sort of bell bottoms you'd see on Saturday Night Fever.
@@ -123,4 +115,8 @@ Brainstorming meme ideas eventually led me to thinking about a different mythica
 
 ![Old Gregg](/portfolio/amabie_files/oldgregg_closeup.jpg)
 
+![Old Gregg Dance Routine](/portfolio/amabie_files/oldgregg_dance.gif)
 
+![Fuzzy Little Man Peach](/portfolio/amabie_files/oldgregg_fuzzylittlemanpeach.jpg)
+
+![Downstairs Mixup](/portfolio/amabie_files/oldgregg_mangina.gif)
