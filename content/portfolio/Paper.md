@@ -5,7 +5,7 @@ date: '2020-06-29'
 slug: some-stuff-i-made-with-paper
 categories: []
 tags: []
-image: img/portfolio/Paper/paper.jpg
+image: img/portfolio/Paper/paper_cover.jpg
 showonlyimage: no
 weight: 1
 ---
@@ -16,7 +16,7 @@ weight: 1
 
 My name is Kolton and I like to make stuff: this portfolio is a collection of said *stuff*. This particular post focuses on the projects I made using paper. 
 
-![Paper_stuff](/portfolio/2020-06-29-some-stuff-i-made-with-paper_files/paper.jpg)
+![Things I've Made with Paper](/portfolio/Paper_files/paper_cover.jpg)
 
 
 ******
