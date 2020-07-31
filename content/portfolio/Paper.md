@@ -29,7 +29,7 @@ My name is Kolton and I like to make stuff: this portfolio is a collection of sa
 
 ### [MC Escher Inspired Art][Escher]
 
-![MC Escher](/portfolio/Paper_files/escher.jpg)*MC Escher Inspired Art*
+![MC Escher](/portfolio/Paper_files/escher.jpg)
 
 ******
 
@@ -52,8 +52,6 @@ My name is Kolton and I like to make stuff: this portfolio is a collection of sa
 ******
 
 ### [Paper Snowflake Christmas Tree][snowflake]
-
-there wasm't enough space in my apartment for a *traditional* tree, so I improvised and made one instead. I cut many of the snowflakes myself, but anytime I company over I would make them cu
  
 ![Paper Snowflake Xmas tree](/portfolio/Paper_files/snowflakes.gif)
 
