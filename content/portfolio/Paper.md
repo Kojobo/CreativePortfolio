@@ -21,9 +21,7 @@ My name is Kolton and I like to make stuff: this portfolio is a collection of sa
 
 ******
 
-### Paper Flower Backdrop for my Cousin's Wedding
-
-My Mom and I teamed up to make this photo backdrop for my cousin's wedding. Take a look at this *POST* for a breakdown of how we went about making the flowers, and what we did with them after the wedding.  
+### [Photo Backdrop for My Cousin's Wedding][wedding]
 
 ![My Mom and Me ](/portfolio/Paper_files/me.jpg)
 
@@ -35,33 +33,61 @@ My Mom and I teamed up to make this photo backdrop for my cousin's wedding. Take
 
 ******
 
-### Signs for the 2019 Chicago Marathon 
+### [Signs for the 2019 Chicago Marathon][chicago]
 
 ![CHI Marathon Signs](/portfolio/Paper_files/chicago.jpg)
 
 ******
 
-### A colorful geometric piece of decor for my (*old*) apartment. 
+### [Origami][prism]  
 
 ![Prism](/portfolio/Paper_files/prism.jpg)
 
 ******
 
-### A gift for my old roommate, who was *obsessed* with The Titanic. 
+### [Christmas Gift for my Roommate: Titanic][Titanic] 
 
 ![Titanic](/portfolio/Paper_files/titanic.jpg)
 
 ******
 
-### Paper Snowflake Christmas Tree
+### [Paper Snowflake Christmas Tree][snowflake]
 
 there wasm't enough space in my apartment for a *traditional* tree, so I improvised and made one instead. I cut many of the snowflakes myself, but anytime I company over I would make them cu
  
 ![Paper Snowflake Xmas tree](/portfolio/Paper_files/snowflakes.gif)
+
+******
+
+### [Welcome Home Sign for My Brother Karson][welcome]
+
 ![WelcomeHome](/portfolio/Paper_files/welcome.jpg)
+
+******
+
+### [Birthday Card for My Brother's 30th Birthday][birthday]
+
 ![30th Bday Card](/portfolio/Paper_files/thirty.jpg)
+
+******
+
+### [Upcycling Canvase][canvas]
+
 ![Canvas Revivals](/portfolio/Paper_files/canvas.jpg)
+
+******
+
+### ['Alien LEGO Face' Bookmark][LEGO]
+
 ![Alien Lego Face](/portfolio/Paper_files/alienrobot.png)
 
+[wedding]: https://koltonbodnovichportfolio.netlify.app/portfolio/weddings-showers/
 [Escher]: https://koltonbodnovichportfolio.netlify.app/portfolio/mc-escher/
-
+[chicago]: https://koltonbodnovichportfolio.netlify.app/portfolio/6w_kipchoge/ 
+[prism]: https://koltonbodnovichportfolio.netlify.app/portfolio/wall-decor/ 
+[Titanic]: https://koltonbodnovichportfolio.netlify.app/portfolio/one-of-a-kind-gifts/
+[snowflake]: 
+[welcome]: https://koltonbodnovichportfolio.netlify.app/portfolio/one-of-a-kind-gifts/
+[birthday]: https://koltonbodnovichportfolio.netlify.app/portfolio/one-of-a-kind-gifts/
+[canvas]: https://koltonbodnovichportfolio.netlify.app/portfolio/canvasupcyle/
+[LEGO]: https://koltonbodnovichportfolio.netlify.app/portfolio/one-of-a-kind-gifts/
