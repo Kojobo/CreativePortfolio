@@ -6,7 +6,7 @@ slug: fav-apps-ipad
 categories: []
 tags: []
 image: img/portfolio/Fav_Apps/favaps_cover.jpg
-showonlyimage: no
+showonlyimage: yes
 ---
 
 
