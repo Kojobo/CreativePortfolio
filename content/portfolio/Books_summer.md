@@ -5,7 +5,7 @@ date: '2020-07-01'
 slug: summer-reading-2020
 categories: []
 tags: []
-image: img/portfolio/books/summer/summer_all.jpg
+image: img/portfolio/books/summer/summer_books_cover.jpg
 showonlyimage: no
 ---
 

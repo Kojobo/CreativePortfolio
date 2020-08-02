@@ -5,7 +5,7 @@ date: '2020-06-04'
 slug: this-or-that-inator
 categories: [Prototype]
 tags: []
-image: img/portfolio/This_or_That/This_or_that.jpg
+image: img/portfolio/This_or_That/This_or_that_cover.jpg
 showonlyimage: no
 weight: 7
 ---

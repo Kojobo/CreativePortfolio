@@ -5,7 +5,7 @@ date: '2020-06-30'
 slug: fabric
 categories: []
 tags: []
-image: img/portfolio/Fabric/fabric.jpg
+image: img/portfolio/Fabric/fabric_cov.jpg
 showonlyimage: no
 weight: 4
 ---

@@ -5,7 +5,7 @@ date: '2020-06-30'
 slug: plastic
 categories: []
 tags: []
-image: img/portfolio/Plastic/plastic.jpg
+image: img/portfolio/Plastic/plastic_cover.jpg
 showonlyimage: no
 weight: 2
 ---

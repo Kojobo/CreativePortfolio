@@ -5,7 +5,7 @@ date: '2020-06-02'
 slug: new-venn-diagram
 categories: []
 tags: []
-image: img/portfolio/VennDiagram/venn.jpg
+image: img/portfolio/VennDiagram/venn_cov.jpg
 showonlyimage: no
 weight: 7
 ---
