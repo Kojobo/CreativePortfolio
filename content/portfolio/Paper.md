@@ -10,6 +10,8 @@ showonlyimage: yes
 weight: 1
 ---
 
+<!--more--> 
+
 My name is Kolton and I like to make stuff: this portfolio is a collection of said *stuff*. This particular post focuses on the projects I made using paper. 
 
 ![Things I've Made with Paper](/portfolio/Paper_files/paper_cover.jpg)
