@@ -6,13 +6,9 @@ slug: some-stuff-i-made-with-paper
 categories: []
 tags: []
 image: img/portfolio/Paper/paper_cover.jpg
-showonlyimage: no
+showonlyimage: yes
 weight: 1
 ---
-
-  
-
-<!--more-->
 
 My name is Kolton and I like to make stuff: this portfolio is a collection of said *stuff*. This particular post focuses on the projects I made using paper. 
 
