@@ -6,7 +6,7 @@
     <description>Recent content in Portfolios on Kolton Bodnovich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -102,11 +102,25 @@
     </item>
     
     <item>
-      <title>Paper Snowflake Christmas Tree </title>
-      <link>/portfolio/paper-snowflake-christmas-tree/</link>
-      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      <title>Some of My Favorite Apps for iPad Pro</title>
+      <link>/portfolio/fav-apps-ipad/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/paper-snowflake-christmas-tree/</guid>
+      <guid>/portfolio/fav-apps-ipad/</guid>
+      <description>Youtube ![Youtube](/portfolio/favorite_apps_files/Photo Jul 25, 11 02 29 PM.jpg)
+Notability ![Notability](/portfolio/favorite_apps_files/Photo Jul 25, 10 54 48 PM.jpg)
+Shapr3D ![Shapr3D](/portfolio/favorite_apps_files/Photo Jul 25, 10 51 40 PM.jpg)
+Kindle ![Kindle](/portfolio/favorite_apps_files/Photo Aug 02, 7 31 08 AM.jpg)
+Cricut Design Studio ![Cricut](/portfolio/favorite_apps_files/Photo Jul 25, 10 59 03 PM.png)
+Assembly ![Assembly](/portfolio/favorite_apps_files/Photo Jul 25, 10 52 56 PM.jpg)</description>
+    </item>
+    
+    <item>
+      <title>Some of My Favorite Instagram Accounts</title>
+      <link>/portfolio/favorite-instagram-accounts/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/favorite-instagram-accounts/</guid>
       <description></description>
     </item>
     
