@@ -5,7 +5,7 @@ date: '2020-08-02'
 slug: fav-apps-ipad
 categories: []
 tags: []
-image: img/portfolio/Fav_Apps/favapps_cover.jpg
+image: img/portfolio/Fav_Apps/favaps_cover.jpg
 showonlyimage: no
 ---
 
