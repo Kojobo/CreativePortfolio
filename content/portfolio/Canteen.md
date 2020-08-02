@@ -5,7 +5,7 @@ date: '2020-06-04'
 slug: solar-powered-canteen
 categories: []
 tags: []
-image: img/portfolio/Canteen.jpg
+image: img/portfolio/canteen/canteen_cover.jpg
 showonlyimage: no
 ---
 

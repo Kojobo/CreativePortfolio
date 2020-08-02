@@ -5,7 +5,7 @@ date: '2020-06-04'
 slug: canvasupcyle
 categories: []
 tags: []
-image: img/portfolio/Canvas.jpg
+image: img/portfolio/canvas/canvas_cover.jpg
 showonlyimage: yes
 ---
 
