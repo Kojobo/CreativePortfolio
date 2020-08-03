@@ -67,8 +67,6 @@ My original intent was to make it look like Amabie's body was covered in scales,
 
 Though techinically a fail, I really like how the body came out. I made the scales slightly transparent in attempt to make them blend a bit better. An unintended side effect was that Amabie became somewhat see-through, similar to a jellyfish. I didn't notice it until I changed the background color.
 
-![4 by 2](/portfolio/amabie_files/Photo Jun 30, 9 48 13 AM.jpg)
-
 ![3 by 3](/portfolio/amabie_files/Photo Jun 30, 9 54 41 AM.jpg)
 
 ![](/portfolio/amabie_files/amabie_purple.jpg)*Things got real weird with this background..*
@@ -99,8 +97,13 @@ Although I used the same color for the arms and the single hair on the head, I'm
 
 ## Reaction to the designs in the article 
 
-I was literally blown away when I saw what everyone else had made. They are all so different, but they are also Amabie.
+I was literally blown away when I saw what everyone else had made. They are all so different, but at the same time they were all just as much Amabie as my own design. 
 
+All of designers created amazing renditions of Amabie, but my favorite was Mark Dingo Francisco's interpretation:
+
+![](/portfolio/amabie_files/AMABIE_DINGOOO.jpg)
+
+His abstract geometric design has an almost fractal-like quality to it, and the dual axes of symmetry combined with the color scheme make the design even more entrancing. What's most impressive is that the design is able to make Amabie both powerful and subtle at the same time. His design was a perfect choice for the cover photo of the article - I had no idea that it was one of the Amabie interpretations when I first saw it and I had to do a double-take when I reached his design at the bottom of the post. 
 
 ## Becoming a Meme
 
