@@ -183,11 +183,6 @@
   </url>
   
   <url>
-    <loc>/portfolio/anthem/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/portfolio/tax_ma/</loc>
     <lastmod>2016-11-05T19:56:17+05:30</lastmod>
   </url>
@@ -205,6 +200,10 @@
   <url>
     <loc>/portfolio/rgb_ref/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/resume/</loc>
   </url>
   
   <url>
