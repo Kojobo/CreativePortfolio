@@ -7,6 +7,7 @@ categories: []
 tags: []
 image: img/portfolio/spacegrafitti/Space_grafiti.jpg
 showonlyimage: yes
+draft: true
 ---
 
 <!--more-->

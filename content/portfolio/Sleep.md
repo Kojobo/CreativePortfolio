@@ -7,6 +7,7 @@ categories: []
 tags: []
 image: img/portfolio/Sleep/sleep_cover.jpg
 showonlyimage: yes
+draft: true
 ---
 
 I took a Data Visualization class in Business school - our first assignment was to track our sleep schedule for 7 days and visualize it on a 6 x 4 notecard. 

@@ -7,6 +7,7 @@ categories: []
 tags: []
 image: img/portfolio/FavInstas/curious_science.gif
 showonlyimage: no
+draft: true
 ---
 
 ### jain108academy

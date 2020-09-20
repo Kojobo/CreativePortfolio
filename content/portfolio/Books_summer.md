@@ -7,6 +7,7 @@ categories: []
 tags: []
 image: img/portfolio/books/summer/summer_books_cover.jpg
 showonlyimage: no
+draft: true
 ---
 
 A growing list of books I've been reading this summer. 
