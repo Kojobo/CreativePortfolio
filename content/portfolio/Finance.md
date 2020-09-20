@@ -7,6 +7,7 @@ categories: []
 tags: []
 image: img/portfolio/Finance.jpg
 showonlyimage: no
+draft: true
 ---
 Some diagrams I made while studying for my Finance class in business school
 

@@ -8,6 +8,7 @@ tags: []
 image: img/portfolio/VennDiagram/venn_cov.jpg
 showonlyimage: no
 weight: 7
+draft: true
 ---
 
 Can you make a Venn Diagram with more than 3 circles? What about a shape other than a circle? 

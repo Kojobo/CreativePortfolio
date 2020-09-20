@@ -7,6 +7,7 @@ categories: []
 tags: []
 image: img/portfolio/canvas/canvas_cover.jpg
 showonlyimage: yes
+draft: true
 ---
 
 A craft project my friend didn't feel like finishing.

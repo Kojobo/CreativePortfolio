@@ -7,7 +7,7 @@ categories: []
 tags: []
 image: img/portfolio/HouseTour/bedroom.gif
 showonlyimage: yes
-draft: false
+draft: true
 ---
 
 ![Bedroom aka Puzzle Room](/portfolio/HouseTour_files/housetour_cover.jpg)
