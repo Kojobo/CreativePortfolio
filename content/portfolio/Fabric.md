@@ -8,6 +8,7 @@ tags: []
 image: img/portfolio/Fabric/fabric_cov.jpg
 showonlyimage: no
 weight: 4
+draft: true
 ---
 
 

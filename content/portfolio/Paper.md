@@ -8,6 +8,7 @@ tags: []
 image: img/portfolio/Paper/paper_cover.jpg
 showonlyimage: yes
 weight: 1
+draft: true
 ---
 
 <!--more--> 

@@ -8,6 +8,7 @@ tags: []
 image: img/portfolio/Plastic/plastic_cover.jpg
 showonlyimage: no
 weight: 2
+draft: true
 ---
 
 

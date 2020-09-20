@@ -8,6 +8,7 @@ tags: []
 image: img/portfolio/pixels/pixels_cover.jpg
 showonlyimage: no
 weight: 3
+draft: true
 ---
 
 ![](/portfolio/Pixels_files/pixels.jpg)
