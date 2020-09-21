@@ -1,6 +1,6 @@
 ---
 title: First Post 
-draft: true
+draft: false
 image:  ""
 showonlyimage: false
 author: "Kolton Bodnovich"
