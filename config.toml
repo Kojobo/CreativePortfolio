@@ -59,7 +59,3 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   email         = "Kjbodnovich@gmail.com"
   linkedin      = "https://www.linkedin.com/in/koltonbodnovich/"
   github        = "https://github.com/Kojobo"
-
-  [taxonomies]
-    tag = "tags"
-    category = "categories"
