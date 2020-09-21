@@ -1,6 +1,6 @@
 ---
 date: "2016-11-05T19:41:01+05:30"
-draft: false
+draft: false  
 image: img/portfolio/bank/bank_port_profile.PNG
 showonlyimage: false
 title: Bankruptcy Report Remake

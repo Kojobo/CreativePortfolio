@@ -138,6 +138,11 @@
   </url>
   
   <url>
+    <loc>/tags/3dp/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/portfolio/designing-an-olympic-medal/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
@@ -149,6 +154,11 @@
   
   <url>
     <loc>/portfolio/one-of-a-kind-gifts/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -203,15 +213,15 @@
   </url>
   
   <url>
+    <loc>/portfolio/anthem/</loc>
+  </url>
+  
+  <url>
     <loc>/portfolio/resume/</loc>
   </url>
   
   <url>
     <loc>/portfolio/fav_books/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>
