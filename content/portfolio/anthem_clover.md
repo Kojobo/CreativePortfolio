@@ -9,11 +9,11 @@ showonlyimage: true
 
 Anthem Inc. is one of the largest health benefits companies in the US, providing various forms of coverage to 41 million insured members in 23 states and DC. In 2020, Anthem Inc. Ranked 29 on the Fortune 500 and 68 on the Global 500.
 
-# map of anthem coverage
+![Anthem's Coverage](/portfolio/anthem_clover_files/anthem_coverage.jpg)
 
 Anthem is a massive company by any measure, but they weren't always this size. Anthem grew to its current size by acquiring and merging with a long list of health plans across the country. 
 
-# gif of anthems growth 
+![Anthem's growth ](/portfolio/anthem_clover_files/anth_ipad.gif)
 
 Anthem's rapid expansion benefited the company in many ways, but it also created some problems. 
 
