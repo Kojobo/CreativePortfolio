@@ -13,7 +13,7 @@ Anthem Inc. is one of the largest health benefits companies in the US, providing
 
 Anthem is a massive company by any measure, but they weren't always this size. Anthem grew to its current size by acquiring and merging with a long list of health plans across the country. 
 
-![Anthem's growth ](/portfolio/anthem_clover_files/anth_ipad.gif)
+![Anthem Expansion ](/portfolio/anthem_clover_files/anth_ipad.2020-09-21 07_53_07.gif)
 
 Anthem's rapid expansion benefited the company in many ways, but it also created some problems. 
 
