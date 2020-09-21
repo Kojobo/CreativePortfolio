@@ -3,8 +3,6 @@ title: 3D Printing
 author: Kolton Bodnovich
 date: '2020-06-02'
 slug: 3d-printing
-categories: ["Plastic"]
-tags: ["3DP"]
 image: img/portfolio/3DPrinting.jpg
 ---
 

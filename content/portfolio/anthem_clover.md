@@ -3,7 +3,7 @@ title: 'Anthem'
 author: Kolton Bodnovich
 slug: Anthem
 draft: false
-image: ""
+image: img/portfolio/Anthem/anthem_logo.png
 showonlyimage: true
 ---
 
