@@ -4,8 +4,7 @@ author: Kolton Bodnovich
 date: '2020-06-02'
 slug: designing-an-olympic-medal
 image: img/portfolio/medal.png
-categories: []
-tags: []
+draft: true
 ---
 
 This is my design concept for the Winter Olympics. But I might modify it to be for the summer olympics..

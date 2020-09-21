@@ -3,8 +3,6 @@ title: Home Improvements
 author: Kolton Bodnovich
 date: '2020-06-02'
 slug: home-improvements
-categories: []
-tags: []
 image: img/portfolio/HomeImprovement.jpg
 draft: true
 ---

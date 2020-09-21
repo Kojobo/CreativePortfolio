@@ -3,8 +3,7 @@ title: 3D Printing a Tiki Torch Top
 author: Kolton Bodnovich
 date: '2020-07-27'
 slug: 3d-printing-a-tiki-torch-top
-categories: []
-tags: []
+draft: true
 image: img/portfolio/tiki_top/tiki_cover.jpg
 showonlyimage: no
 ---

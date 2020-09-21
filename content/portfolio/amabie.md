@@ -3,12 +3,10 @@ title: 'My Interpretation of Amabie '
 author: Kolton Bodnovich
 date: '2020-06-26'
 slug: Amabie
-categories:
-  - Hobbies
-tags: []
 image: img/portfolio/amabie/amabie_cover.jpg
 showonlyimage: yes
 weight: 6
+draft: true
 ---
 
 A mythical sea creature from Japanese Folklore 

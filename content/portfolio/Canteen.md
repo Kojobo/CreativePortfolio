@@ -3,8 +3,7 @@ title: 'Solar Powered Canteen '
 author: Kolton Bodnovich
 date: '2020-06-04'
 slug: solar-powered-canteen
-categories: []
-tags: []
+draft: true
 image: img/portfolio/canteen/canteen_cover.jpg
 showonlyimage: no
 ---
