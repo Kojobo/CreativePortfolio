@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T19:44:32+05:30"
 draft: false
-image: img/portfolio/ABI/abi.jpg
+image: img/portfolio/ABI/abinbev_profile.jpg
 showonlyimage: false
 title: AB InBev Sustainability Challenge
 ---
