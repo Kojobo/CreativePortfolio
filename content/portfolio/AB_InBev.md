@@ -4,6 +4,7 @@ draft: false
 image: img/portfolio/ABI/abinbev_profile.jpg
 showonlyimage: false
 title: AB InBev Sustainability Challenge
+weight: 3
 ---
 
 My team made it to the final round of Anheuser-Busch InBev's case competition for first-year MBA students.

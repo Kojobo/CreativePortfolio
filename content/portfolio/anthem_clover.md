@@ -5,6 +5,7 @@ slug: Anthem
 draft: false
 image: img/portfolio/Anthem/anthem_logo.png
 showonlyimage: true
+weight: 2
 ---
 In 2018 I spent the summer in Denver, Colorado interning with Anthem Inc. as an internal consultant. For my main project, I was part of a team of other internal consultants whose main goal was to map out Anthem's current sales practices and design a uniform sales process that would be implemented company-wide. To better understand the inherent complexity of this project, it helps to know a few things about Anthem.
 
