@@ -25,8 +25,6 @@ One problem was that the businesses Anthem absorbed *rarely* used the same softw
 
 ![](/portfolio/anthem_clover_files/anthem_ideal_sales_people.jpg)
 
-![](/portfolio/anthem_clover_files/anthem_CO_people.png)![](/portfolio/anthem_clover_files/anthem_CT_people.png)![](/portfolio/anthem_clover_files/anthem_ME_people.png)
-
 Anthem intended to fix this problem by getting every sales team to use the same software and sales processes. Before the sales teams in each state could convert to this new universal system, Anthem needed to develop a new, universal system. To develop such a system, they needed to understand what the current sales process looked like in each state. After mapping out the sales process for each state, the team would take the best parts from each of these processes and combine them into a universal process.
 
  basically *who* should be involved in the process and *what* should they be doing.

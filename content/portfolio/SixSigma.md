@@ -7,15 +7,19 @@ title: Six Sigma with Abercrombie & Fitch
 weight: 5
 ---
 
-A six sigma project I completed to earn my Green belt. 
+A six sigma project I completed in business school to earn my Green belt. 
 
 <!--more-->
 
-Six Sigma is a business philosophy and improvement methodology that uses performance metrics to achieve systematic continuous improvement. It utilizes data and statistical tools to align organizational strategic goals with the needs of the customer to achieve the highest level of customer satisfaction. 
 
-In Spring 2019 I collaborated with a team of fellow MBA students and Abercrombie & Fitch associates to complete a six sigma project and earn my green belt. The main focus of the project was to improve the accuracy of machine measurements during the intake process, which would ultimately reduce the occurrence of machine errors in outbound packaging process. Improving machine performance reduced the need for human intervention and enabled employees to focus on value added activities.
 
-The first task for our team was to observe the entire process for receiving, sorting, packaging, and shipping SKUs out to A&F Branches across the country. After observing each of these steps, we created a work flow diagram to document each phase in the process. 
+In Spring 2019 I was on a team that collaborated with Abercrombie & Fitch associates to complete a six sigma project[^six] and earn my green belt. Our four-person team consisted of three fellow MBA students and myself. Throughout the semester we made weekly visits to A&F's main distribution center, located just outside Columbus in New Albany, Ohio. Every item sold by any A&F store in the United States passed through this distribution center.
+
+The main focus of the project was to reduce the time employees spent correcting machine errors in the outbound packaging process. Reducing the need for human intervention would enable employees to dedicate more time on value added activities.
+
+Our team's first task was to determine the typical path an SKU took through the distribution center (DC). Essentially, needed to know what happens between the time an item is received by a supplier, and when that item is shipped to a retail store. This period was commonly referred to as *truck to truck* by those working in the DC. 
+
+After taking a guided tour of the facility, we determined that the process had five steps. We then created a work flow diagram illustrating each phase in the process. 
 
 ![AF_workflow][3]
 
@@ -54,6 +58,8 @@ This chart shows provides an analysis of the chutes and CTEs throughout the year
 <img src="/portfolio/2w_AF_sixsig_files/chute_analysis.jpg" alt="chute_analysis" width="600px" height="450px"/>
 
 I also created an interactive and scalable application for the A&F team. Unfortunately I am not able to post this application because it contained confidential information. 
+
+[^six]: Six Sigma is a business improvement methodology that uses performance metrics to achieve systematic continuous improvement. It utilizes statistical tools to align an organization's strategic goals with the needs of the customer to achieve the highest level of customer satisfaction.
 
 [1]: /img/portfolio/AF/AF_CTE.jpg
 [2]: /img/portfolio/AF/AF_underfill.jpg
