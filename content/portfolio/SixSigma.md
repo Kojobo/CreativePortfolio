@@ -69,12 +69,17 @@ The impact of underfills was almost impossible to quantify because the system di
 
 ### Other Graphics 
 
-This chart breaks down of the components of an incoming box's volume. The green bars indicate the actual volume of the SKUs in the box, while the gray and tan boxes indicate the portion of the box that is air and cardboard, respectively. The scanner doesn't account for the cardboard or air when calculating volumes for individual items. This means that *every* item measured using this system has an incorrect volume. These values were found by taking a sample of incoming boxes and measuring the contents of each box. 
+This chart breaks down of the components of an incoming box's volume: these values were collected from a sample of incoming boxes. The green bars indicate the actual volume of the SKUs in the box, while the gray and tan boxes indicate the portion of the box that is air and cardboard, respectively. The scanner doesn't account for the cardboard or air when calculating volumes for individual items. This means that *every* item measured using this system had an incorrect volume. 
 
 <img src="/portfolio/2w_AF_sixsig_files/Dead_space_graphic.png" alt="deadspace_graphic " width="600px" height="450ps"/>
 
 
 I also created an interactive and scalable application for the A&F team. Unfortunately I am not able to post this application because it contained confidential information. 
+
+### Conclusion
+
+Our team's findings confirmed some of the A&F associate's initial suspicions regarding their scanners. After presenting our results, A&F purchased more precise scanners that scanned individual items using a *light curtain* instead of scanning the dimensions of an entire box. While the new scanners produced measurements that were much closer to an item's actual volume, the measuring process took more time to complete. And with *thousands* of unique items in their inventory, it would take a considerable amount of time to log each item's measurements in their system. After using the scanners for nearly a month, A&F managed to measure almost 10,000 items. 
+Ideally, my team would have continued working on the project with A&F until every item was measured using the new scanners. Unfortunately, my teammates and I graduated when the semester came to an end, so we were unable to follow this project to completion. 
 
 [^six]: Six Sigma is a business improvement methodology that uses performance metrics to achieve systematic continuous improvement. It utilizes statistical tools to align an organization's strategic goals with the needs of the customer to achieve the highest level of customer satisfaction.
 
