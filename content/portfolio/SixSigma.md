@@ -41,25 +41,27 @@ Here are some examples of the errors my team was tasked with reducing:
 
 Overfills occur when an item's reported volume is *smaller* than its actual volume.
 
-For example, a sweater is assigned a volume of 10 cubic units when in reality, its 25 cubic units. When the sorting system drops 6 sweaters into an outbound box, it calculates that 60 units (6 x 10) of space are used, but in reality, 150 units (6 x 25)are used. If the box has an initial volume of 100 cubic units, the box has already been overfilled by 50 units, but the chute remains open because the system believes that it has 40 units of space left to add more items.  
+For example, a sweater is assigned a volume of 10 cubic units when in reality, its 25 cubic units. When the sorting system drops 6 sweaters into an outbound box, it calculates that 60 units (6 items x 10 units) of space are used, but in reality, 150 units (6 items x 25 units)are used. If the box has an initial volume of 100 cubic units, the box has already been overfilled by 50 units, but the chute remains open because the system believes that it has 40 units of space left to add more items.  
 
 ![Close to Edit][1]
 
 When this happens, an employee must come disable the chute by telling the system the box is full. Then they transfer some items into a new box so that they can properly close the original box. Every item transferred from the original box into a new box must be scanned so the system can account for their volumes. This was referred to as a '*Close to Edit*' (CTE) because the chute needed to be closed, and the contents of the box needed to be edited. Depending on the number of items that need to be transferred, correcting an overfill can require a considerable amount of time. 
 
-We were able to quantify the impact of overfills because the system collected data on every CTE. This made it possible to detect items that were likely to cause overfills, and determine seasonal trends.   
+We were able to quantify the impact of overfills because the system collected data on every CTE. With this data, it was possible to identify items that were likely to cause overfills and determine seasonal trends. The chart below provides an analysis of CTEs throughout the year - the spikes indicate when the most errors occur in the process. 
+
+<img src="/portfolio/2w_AF_sixsig_files/chute_analysis.jpg" alt="chute_analysis" width="600px" height="450px"/>
 
 ### Underfills
 
-Underfills occur when the system mistakenly measures an item as being larger than it is in reality.
+Underfills occur when the system mistakenly measures an item's volume as larger than it is in reality.
 
-For example, the system assigns a volume of 5 units to a swimsuit, but in reality, each swimsuit is 3 units. When the sorting system drops 20 suits into an outbound box, it will disable the chute because its calculations indicate that 100 units (20 x 5) are in the box. In reality, the box has only 60 units (3 x 20), and 40 units of space are still available.
+For example, the system assigns a volume of 5 units to a swimsuit, but in reality each swimsuit is only 3 units. When the sorting system drops 20 suits into an outbound box, it will disable the chute because its calculations indicate that 100 units (20 items x 5 units) are in the box. In reality, the box has only 60 units (20 items x 3 units), and 40 units of space are still available.
 
 ![Underfilled Box][2]
 
-Underfills are handled differently than overfills. Each chute has a button that, when pressed, lets the system know that the box isn't full yet. The chute reopens, but is disabled again after a *single* item is dropped into the box. If the box still is not full, the button can be pushed again, allowing for another item to be added. In some cases, the button is pushed several times before the box is actually full. 
+Underfills are handled differently than overfills. Each chute has a button that, when pressed, lets the system know that the box isn't full yet. The chute reopens, *but* it is disabled again after a *single* item is dropped into the box. If the box still is not full, the button can be pushed again, allowing for another item to be added. In some cases, the button is pushed several times before the box is actually full. 
 
-I created this graphic to illustrate the idea of an underfill. 
+I used R to create this graphic illustrating the idea of an underfill. The two columns on the left represent the *incorrect* volume of the full box, and the *incorrect* volumes assigned to the ten items inside the box. The two columns on the right represent the *actual* volume of the items inside the box, and the *actual* volume of each individual item. The two boxes in the middle represent a side-by-side comparison of an individual item, highlighting the difference in the item's actual volume and the incorrect volume used by the system. 
 
 <img src="/portfolio/2w_AF_sixsig_files/dead_space_exampleScenario.png" alt="deadspace_underfill" width="600px" height="450px"/>
 
@@ -67,13 +69,10 @@ The impact of underfills was almost impossible to quantify because the system di
 
 ### Other Graphics 
 
-Here is a chart I made to show the breakdown of the volume in incoming boxes. The green bars indicate the actual volume of the SKUs in the box, while the gray and tan boxes indicate the portion of the box that is air and cardboard, respectively. These values were found by taking a sample of incoming boxes and measuring the contents of each box. 
+This chart breaks down of the components of an incoming box's volume. The green bars indicate the actual volume of the SKUs in the box, while the gray and tan boxes indicate the portion of the box that is air and cardboard, respectively. The scanner doesn't account for the cardboard or air when calculating volumes for individual items. This means that *every* item measured using this system has an incorrect volume. These values were found by taking a sample of incoming boxes and measuring the contents of each box. 
 
 <img src="/portfolio/2w_AF_sixsig_files/Dead_space_graphic.png" alt="deadspace_graphic " width="600px" height="450ps"/>
 
-This chart shows provides an analysis of the chutes and CTEs throughout the year. The spikes indicate when the most errors occur in the process. 
-
-<img src="/portfolio/2w_AF_sixsig_files/chute_analysis.jpg" alt="chute_analysis" width="600px" height="450px"/>
 
 I also created an interactive and scalable application for the A&F team. Unfortunately I am not able to post this application because it contained confidential information. 
 
