@@ -6,19 +6,10 @@
     <description>Recent content in Categories on Kolton Bodnovich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hobbies</title>
-      <link>/categories/hobbies/</link>
-      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/hobbies/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Prototype</title>
@@ -30,11 +21,11 @@
     </item>
     
     <item>
-      <title>Plastic</title>
-      <link>/categories/plastic/</link>
-      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <title>Hobbies</title>
+      <link>/categories/hobbies/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/plastic/</guid>
+      <guid>/categories/hobbies/</guid>
       <description></description>
     </item>
     

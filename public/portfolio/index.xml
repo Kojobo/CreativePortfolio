@@ -6,7 +6,7 @@
     <description>Recent content in Portfolios on Kolton Bodnovich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,12 +21,32 @@
     </item>
     
     <item>
+      <title>First Post</title>
+      <link>/portfolio/first_post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/first_post/</guid>
+      <description>This will be an overview of the portfolio and showcase some of the main projects</description>
+    </item>
+    
+    <item>
       <title>Some things I made with plastic..</title>
       <link>/portfolio/plastic/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/portfolio/plastic/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Anthem</title>
+      <link>/portfolio/anthem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/anthem/</guid>
+      <description>In 2018 I spent the summer in Denver, Colorado interning with Anthem Inc. as an internal consultant. For my main project, I was part of a team whose main goal was to map out Anthem&#39;s current sales practices and design a uniform sales process that would be implemented company-wide.
+To better understand the inherent complexity of this project, it helps to know a few things about Anthem.
+Some Background on Anthem Inc.</description>
     </item>
     
     <item>
@@ -39,12 +59,39 @@
     </item>
     
     <item>
+      <title>AB InBev Sustainability Challenge</title>
+      <link>/portfolio/ab_inbev/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>/portfolio/ab_inbev/</guid>
+      <description>&lt;p&gt;My team made it to the final round of Anheuser-Busch InBev&#39;s case competition for first-year MBA students.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Some things I made with fabric..</title>
       <link>/portfolio/fabric/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/portfolio/fabric/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Bankruptcy Report Remake</title>
+      <link>/portfolio/bankruptcy_report_og/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/bankruptcy_report_og/</guid>
+      <description>&lt;p&gt;Data Viz Project: Bankruptcy Report Revamp&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Earning my Six Sigma Green Belt with Abercrombie &amp; Fitch</title>
+      <link>/portfolio/sixsigma/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>/portfolio/sixsigma/</guid>
+      <description>&lt;p&gt;An overview of the six sigma project I completed to earn my Green Belt.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -99,6 +146,15 @@
       
       <guid>/portfolio/hc_analytics/</guid>
       <description>&lt;p&gt;In this MBA course I was able to apply my newly acquired programming skills to a variety of analytical challenges based in the health care industry.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Legal Intern at CareSource</title>
+      <link>/portfolio/caresource-hepc/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/caresource-hepc/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -275,15 +331,6 @@ Wedding Backdrop In September 2019, my mom and I made this backdrop for a family
     </item>
     
     <item>
-      <title>Six Sigma with Abercrombie &amp; Fitch</title>
-      <link>/portfolio/sixsigma/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      
-      <guid>/portfolio/sixsigma/</guid>
-      <description>&lt;p&gt;A six sigma project I completed to earn my Green belt.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>A Modern Take on Mergers &amp; Acquisitions</title>
       <link>/portfolio/tax_ma/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
@@ -293,40 +340,12 @@ Wedding Backdrop In September 2019, my mom and I made this backdrop for a family
     </item>
     
     <item>
-      <title>AB InBev Sustainability Challenge</title>
-      <link>/portfolio/ab_inbev/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>/portfolio/ab_inbev/</guid>
-      <description>&lt;p&gt;My team made it to the final round of Anheuser-Busch InBev&#39;s case competition for first-year MBA students.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Bankruptcy Report Remake</title>
-      <link>/portfolio/bankruptcy_report_og/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>/portfolio/bankruptcy_report_og/</guid>
-      <description>&lt;p&gt;Data Viz Project: Bankruptcy Report Revamp&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>RGB Reference</title>
       <link>/portfolio/rgb_ref/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>/portfolio/rgb_ref/</guid>
       <description>&lt;p&gt;This is a graphic I made to help me learn RGB color codes.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Anthem</title>
-      <link>/portfolio/anthem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/anthem/</guid>
-      <description>Anthem Inc. is one of the largest health benefits companies in the US, providing various forms of coverage to 41 million insured members in 23 states and DC. In 2020, Anthem Inc. Ranked 29 on the Fortune 500 and 68 on the Global 500.
-map of anthem coverage Anthem is a massive company by any measure, but they weren&#39;t always this size. Anthem grew to its current size by acquiring and merging with a long list of health plans across the country.</description>
     </item>
     
     <item>

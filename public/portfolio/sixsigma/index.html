@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Six Sigma with Abercrombie &amp; Fitch</title>
+<title>Earning my Six Sigma Green Belt with Abercrombie &amp; Fitch</title>
 <meta name="description" content="Describe your website">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
@@ -113,30 +113,55 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-         <h1>Six Sigma with Abercrombie &amp; Fitch</h1>
-         <p>A six sigma project I completed to earn my Green belt.</p>
-<p>Six Sigma is a business philosophy and improvement methodology that uses performance metrics to achieve systematic continuous improvement. It utilizes data and statistical tools to align organizational strategic goals with the needs of the customer to achieve the highest level of customer satisfaction.</p>
-<p>In Spring 2019 I collaborated with a team of fellow MBA students and Abercrombie &amp; Fitch associates to complete a six sigma project and earn my green belt. The main focus of the project was to improve the accuracy of machine measurements during the intake process, which would ultimately reduce the occurrence of machine errors in outbound packaging process. Improving machine performance reduced the need for human intervention and enabled employees to focus on value added activities.</p>
-<p>The first task for our team was to observe the entire process for receiving, sorting, packaging, and shipping SKUs out to A&amp;F Branches across the country. After observing each of these steps, we created a work flow diagram to document each phase in the process.</p>
+         <h1>Earning my Six Sigma Green Belt with Abercrombie &amp; Fitch</h1>
+         <p>An overview of the six sigma project I completed to earn my Green Belt.</p>
+<p>In Spring 2019 I was on a team that collaborated with Abercrombie &amp; Fitch to complete a six sigma project<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> and earn my green belt. The project's primary goal was to reduce the time employees spent correcting machine errors during the outbound packaging process in the main distribution center (DC1). Reducing this need for human intervention would enable employees to dedicate more time on value added activities.</p>
+<p>Our four-person team consisted of three fellow MBA students and myself. We made weekly visits throughout the semester to DC1, the company's largest and busiest distribution center. Every item sold by any A&amp;F store in the United States passed through DC1.</p>
+<h3 id="defining-the-process">Defining the Process</h3>
+<p>After meeting with A&amp;F's associates to define the project's scope, our team's first task was to determine the path a typical SKU took through DC1. After taking a guided tour of the facility, we determined the process had five steps. I used my iPad to create a work flow diagram illustrating each of the five steps.</p>
 <p><img src="/img/portfolio/AF/AF_WorkFlow.PNG" alt="AF_workflow"></p>
+<ol>
+<li>Boxes from suppliers are loaded onto conveyor belts.</li>
+<li>Scanner takes box dimensions and assigns volume to items in the box.</li>
+<li>Items are removed from their box, and loaded onto conveyor belt.</li>
+<li>Items drop from conveyor belt into chutes.</li>
+<li>Boxes are sealed and transferred to outbound shipping dock.</li>
+</ol>
 <p><a href="https://rpubs.com/Kojobo/AFprocessmap">Click this link to see a description of each phase of the process</a></p>
+<h3 id="understanding-the-problem-overfills-and-underfills">Understanding the Problem: Overfills and Underfills</h3>
+<p>The problem we aimed to fix occurred during step 4 of the process. At the bottom of each chute is an empty box: the volume of the box is hard-coded into the software used by the sorting system. When an item is dropped from the belt into the box, the software deducts that item's volume from the box's initial volume. More items drop into the box until the system determine that the box was full. The system then disables that particular chute to prevent anymore items from dropping into the box until an employee comes to replace the full box with an empty one.</p>
+<p>For this system to operate properly, it needs to have precise volume measurements for each of the items being dropped into the box. When the system has <em>incorrect</em> measurements, its calculations are also incorrect, and the chutes will be disabled at the wrong time.</p>
 <p>Here are some examples of the errors my team was tasked with reducing:</p>
-<h3 id="overfills-aka-close-to-edits">Overfills (aka Close to Edits)</h3>
-<p>This type of error would occur when the system incorrectly recorded item volumes to be smaller than they were in reality. For example, an order of 10 sweaters might have been packed tightly into the 100 cubic unit box from the supplier, so each sweater is assigned 10 cubic unit. However, when the sweaters are removed from the box, they expanded considerably to 25 cubic units. When the sorting system drops 6 sweaters into an outbound box, it &lsquo;thinks&rsquo; that 60/100 available units are used, but in reality 150/100 units are used, and the box is overfilled.</p>
+<h4 id="overfills-aka-close-to-edits">Overfills (aka Close to Edits)</h4>
+<p>Overfills occur when an item's reported volume is <em>smaller</em> than its actual volume.</p>
+<p>For example, a sweater is assigned a volume of 10 cubic units when in reality, its 25 cubic units. When the sorting system drops 6 sweaters into an outbound box, it calculates that 60 units (6 items x 10 units) of space are used, but in reality, 150 units (6 items x 25 units)are used. If the box has an initial volume of 100 cubic units, the box has already been overfilled by 50 units, but the chute remains open because the system believes that it has 40 units of space left to add more items.</p>
 <p><img src="/img/portfolio/AF/AF_CTE.jpg" alt="Close to Edit"></p>
-<p>When this happens, an employee must come and manually stop the chute and tell the system that the box is full. Then they need to move some of the SKUs into a new box so that they can properly close the original box.</p>
+<p>When this happens, an employee must come disable the chute by telling the system the box is full. Then they transfer some items into a new box so that they can properly close the original box. Every item transferred from the original box into a new box must be scanned so the system can account for their volumes. This was referred to as a &lsquo;<em>Close to Edit</em>&rsquo; (CTE) because the chute needed to be closed, and the contents of the box needed to be edited. Depending on the number of items that need to be transferred, correcting an overfill can require a considerable amount of time.</p>
+<p>We were able to quantify the impact of overfills because the system collected data on every CTE. With this data, it was possible to identify items that were likely to cause overfills and determine seasonal trends. The chart below provides an analysis of CTEs throughout the year - the spikes indicate when the most errors occur in the process.</p>
+<!-- raw HTML omitted -->
 <h3 id="underfills">Underfills</h3>
-<p>This type of error occurs when the system mistakenly measures an item as being larger than it is in reality. For example, a box of 20 swimsuits comes in a 100 cubic box from the supplier. The system assigns a volume of 5 units to each swimsuit, but in reality each swimsuit is 3 units. When the sorting system drops 20 suits into an outbound box, it will trigger the chute to close because it &lsquo;thinks&rsquo; that the box is full. In reality, only 60/100 available units have been used, so there are 40 units of space still available in the current box.</p>
+<p>Underfills occur when the system mistakenly measures an item's volume as larger than it is in reality.</p>
+<p>For example, the system assigns a volume of 5 units to a swimsuit, but in reality each swimsuit is only 3 units. When the sorting system drops 20 suits into an outbound box, it will disable the chute because its calculations indicate that 100 units (20 items x 5 units) are in the box. In reality, the box has only 60 units (20 items x 3 units), and 40 units of space are still available.</p>
 <p><img src="/img/portfolio/AF/AF_underfill.jpg" alt="Underfilled Box"></p>
-<p>When this happens, an employee must come and push a button on the chute to let the system know that it can still drop another item into the box. The employee may have to push this button several times before the box is actually full.</p>
-<p>Here is a graphic I created to better portray the idea of an underfill.</p>
+<p>Underfills are handled differently than overfills. Each chute has a button that, when pressed, lets the system know that the box isn't full yet. The chute reopens, <em>but</em> it is disabled again after a <em>single</em> item is dropped into the box. If the box still is not full, the button can be pushed again, allowing for another item to be added. In some cases, the button is pushed several times before the box is actually full.</p>
+<p>I used R to create this graphic illustrating the idea of an underfill. The two columns on the left represent the <em>incorrect</em> volume of the full box, and the <em>incorrect</em> volumes assigned to the ten items inside the box. The two columns on the right represent the <em>actual</em> volume of the items inside the box, and the <em>actual</em> volume of each individual item. The two boxes in the middle represent a side-by-side comparison of an individual item, highlighting the difference in the item's actual volume and the incorrect volume used by the system.</p>
 <!-- raw HTML omitted -->
+<p>The impact of underfills was almost impossible to quantify because the system didn't keep track of when a button was pressed on any of the chutes. After surveying employees we gained some insight on which items typically caused underfills as well as the season underfills occurred more frequently. This information was useful, but it did not provide us with any method for gauging the impact of our efforts to improve the process.</p>
 <h3 id="other-graphics">Other Graphics</h3>
-<p>Here is a chart I made to show the breakdown of the volume in incoming boxes. The green bars indicate the actual volume of the SKUs in the box, while the gray and tan boxes indicate the portion of the box that is air and cardboard, respectively. These values were found by taking a sample of incoming boxes and measuring the contents of each box.</p>
-<!-- raw HTML omitted -->
-<p>This chart shows provides an analysis of the chutes and CTEs throughout the year. The spikes indicate when the most errors occur in the process.</p>
+<p>This chart breaks down of the components of an incoming box's volume: these values were collected from a sample of incoming boxes. The green bars indicate the actual volume of the SKUs in the box, while the gray and tan boxes indicate the portion of the box that is air and cardboard, respectively. The scanner doesn't account for the cardboard or air when calculating volumes for individual items. This means that <em>every</em> item measured using this system had an incorrect volume.</p>
 <!-- raw HTML omitted -->
 <p>I also created an interactive and scalable application for the A&amp;F team. Unfortunately I am not able to post this application because it contained confidential information.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>Our team's findings confirmed some of the A&amp;F associate's initial suspicions regarding their scanners. After presenting our results, A&amp;F purchased more precise scanners that scanned individual items using a <em>light curtain</em> instead of scanning the dimensions of an entire box. While the new scanners produced measurements that were much closer to an item's actual volume, the measuring process took more time to complete. And with <em>thousands</em> of unique items in their inventory, it would take a considerable amount of time to log each item's measurements in their system. After using the scanners for nearly a month, A&amp;F managed to measure almost 10,000 items. 
+Ideally, my team would have continued working on the project with A&amp;F until every item was measured using the new scanners. Unfortunately, my teammates and I graduated when the semester came to an end, so we were unable to follow this project to completion.</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>Six Sigma is a business improvement methodology that uses performance metrics to achieve systematic continuous improvement. It utilizes statistical tools to align an organization's strategic goals with the needs of the customer to achieve the highest level of customer satisfaction. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
          
       </div>
     </div>

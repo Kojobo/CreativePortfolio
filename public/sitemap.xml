@@ -8,8 +8,16 @@
   </url>
   
   <url>
+    <loc>/portfolio/first_post/</loc>
+  </url>
+  
+  <url>
     <loc>/portfolio/plastic/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/anthem/</loc>
   </url>
   
   <url>
@@ -18,8 +26,23 @@
   </url>
   
   <url>
+    <loc>/portfolio/ab_inbev/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/portfolio/fabric/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/bankruptcy_report_og/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/sixsigma/</loc>
+    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
   </url>
   
   <url>
@@ -54,12 +77,17 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/caresource-hepc/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/portfolio/</loc>
-    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -88,16 +116,6 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/hobbies/</loc>
-    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/portfolio/space-grafiti/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
   </url>
@@ -109,6 +127,11 @@
   
   <url>
     <loc>/portfolio/canvasupcyle/</loc>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <lastmod>2020-06-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -138,11 +161,6 @@
   </url>
   
   <url>
-    <loc>/tags/3dp/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/portfolio/designing-an-olympic-medal/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
@@ -158,16 +176,6 @@
   </url>
   
   <url>
-    <loc>/categories/plastic/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/portfolio/things-i-made-for-business-school/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
@@ -175,6 +183,11 @@
   <url>
     <loc>/portfolio/wall-decor/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/hobbies/</loc>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -193,23 +206,8 @@
   </url>
   
   <url>
-    <loc>/portfolio/sixsigma/</loc>
-    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/portfolio/tax_ma/</loc>
     <lastmod>2016-11-05T19:56:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/portfolio/ab_inbev/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/portfolio/bankruptcy_report_og/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
@@ -218,15 +216,15 @@
   </url>
   
   <url>
-    <loc>/portfolio/anthem/</loc>
-  </url>
-  
-  <url>
     <loc>/portfolio/resume/</loc>
   </url>
   
   <url>
     <loc>/portfolio/fav_books/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
