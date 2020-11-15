@@ -3,14 +3,25 @@ date: "2016-11-05T19:41:01+05:30"
 draft: false  
 image: img/portfolio/bank/bank_choro_2.png
 showonlyimage: false
-title: Bankruptcy Report Remake
+title: Liquidation Nation: Bankruptcy in the US between 2001-2019
 weight: 4
 ---
 
-Data Viz Project: Bankruptcy Report Revamp
+Using R Programming to analyze data collected from more than 1 million bankruptcy cases.  
+
+
 <!--more-->
 
 ![](/portfolio/Bankruptcy_Report_OG_files/bank_choro_2.png)
+
+_____
+
+
+
+
+_____
+
+
 
 ## Background on the Project 
 
