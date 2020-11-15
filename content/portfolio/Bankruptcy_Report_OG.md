@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T19:41:01+05:30"
 draft: false  
-image: img/portfolio/bank/bank_port_profile.PNG
+image: img/portfolio/bank/bank_choro_2.png
 showonlyimage: false
 title: Bankruptcy Report Remake
 weight: 4
@@ -10,7 +10,7 @@ weight: 4
 Data Viz Project: Bankruptcy Report Revamp
 <!--more-->
 
-![](/portfolio/Bankruptcy_Report_OG_files/bankruptcy_profile_2.png)
+![](/portfolio/Bankruptcy_Report_OG_files/bank_choro_2.png)
 
 ## Background on the Project 
 
