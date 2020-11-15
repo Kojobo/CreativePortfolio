@@ -16,9 +16,9 @@ Using R Programming to analyze more than 1 million bankruptcy cases from 2001-20
 
 _____
 
-###### CHALLENGE
+**CHALLENGE**
 
-###### OUTCOME
+**OUTCOME**
 _____
 
 
