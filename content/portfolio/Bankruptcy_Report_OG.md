@@ -3,11 +3,11 @@ date: "2016-11-05T19:41:01+05:30"
 draft: false  
 image: img/portfolio/bank/bank_choro_2.png
 showonlyimage: false
-title: Liquidation Nation: Bankruptcy in the US between 2001-2019
+title: Liquidation Nation
 weight: 4
 ---
 
-Using R Programming to analyze data collected from more than 1 million bankruptcy cases.  
+Using R Programming to analyze more than 1 million bankruptcy cases from 2001-2019  
 
 
 <!--more-->
