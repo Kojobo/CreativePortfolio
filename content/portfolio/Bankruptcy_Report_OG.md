@@ -10,6 +10,8 @@ weight: 4
 Data Viz Project: Bankruptcy Report Revamp
 <!--more-->
 
+![](/portfolio/Bankruptcy_Report_OG_files/bankruptcy_profile_2.png)
+
 ## Background on the Project 
 
 I came up with the idea for this project after finding a report made by the Department of Justice (DOJ) that covered every bankruptcy case that had closed between 1994 and 2000. The report, published in 2001, had all sorts of statistics and charts summarizing various aspects of these cases. While the report was informative, it only included cases up to the year 2000; a report on bankruptcy cases closed in the 21st century  report of this nature was never published again, the DOJ The DOJ annually published bankruptcy datasets, but   published the data No similar report was ever published However, the DOJ   and of   of bankruptcy datasets on the Department of Justice's website as well as a report from 2001 that summarized bankruptcy activity between 1994 and 2000. The dataset    as well as a number of  that had closed since 2001. Essentially, the dataset included every asset case that had closed during the 21st century, totalling just under 1 million cases. 
